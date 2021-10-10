@@ -1,0 +1,31 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "57d5c91b-218e-4d63-9672-bcd993b98fa6": {
+      "ProjectGuid": "57d5c91b-218e-4d63-9672-bcd993b98fa6",
+      "DisplayName": "Datafication.Repositories",
+      "ColorIndex": 0
+    },
+    "50fee6bb-4a40-48e7-ae63-9b313a264f18": {
+      "ProjectGuid": "50fee6bb-4a40-48e7-ae63-9b313a264f18",
+      "DisplayName": "Datafication.Models",
+      "ColorIndex": 1
+    },
+    "572e8f75-97e5-4a59-91ef-2980a488a3fb": {
+      "ProjectGuid": "572e8f75-97e5-4a59-91ef-2980a488a3fb",
+      "DisplayName": "Datafication.WebAPI",
+      "ColorIndex": 2
+    },
+    "1f183fe6-a913-4bab-a0d7-8d79ef64467f": {
+      "ProjectGuid": "1f183fe6-a913-4bab-a0d7-8d79ef64467f",
+      "DisplayName": "Datafication.Services",
+      "ColorIndex": 3
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 4
+}

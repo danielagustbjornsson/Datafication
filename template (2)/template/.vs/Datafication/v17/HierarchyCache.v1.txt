@@ -1,0 +1,687 @@
+﻿++Solution 'Datafication' ‎(4 of 4 projects)
+i:{00000000-0000-0000-0000-000000000000}:Datafication.sln
+++Datafication.Models
+i:{00000000-0000-0000-0000-000000000000}:Datafication.Models
+i:{57d5c91b-218e-4d63-9672-bcd993b98fa6}:c:\users\danie\onedrive\documents\háskóli\vefþjónusta\small assignment iii - datafication\template (2)\template\datafication.models\datafication.models.csproj
+i:{1f183fe6-a913-4bab-a0d7-8d79ef64467f}:c:\users\danie\onedrive\documents\háskóli\vefþjónusta\small assignment iii - datafication\template (2)\template\datafication.models\datafication.models.csproj
+i:{572e8f75-97e5-4a59-91ef-2980a488a3fb}:c:\users\danie\onedrive\documents\háskóli\vefþjónusta\small assignment iii - datafication\template (2)\template\datafication.models\datafication.models.csproj
+++Dependencies
+i:{50fee6bb-4a40-48e7-ae63-9b313a264f18}:>487
+i:{57d5c91b-218e-4d63-9672-bcd993b98fa6}:>486
+i:{1f183fe6-a913-4bab-a0d7-8d79ef64467f}:>488
+i:{572e8f75-97e5-4a59-91ef-2980a488a3fb}:>766
+++Properties
+i:{50fee6bb-4a40-48e7-ae63-9b313a264f18}:c:\users\danie\onedrive\documents\háskóli\vefþjónusta\small assignment iii - datafication\template (2)\template\datafication.models\properties\
+i:{572e8f75-97e5-4a59-91ef-2980a488a3fb}:c:\users\danie\onedrive\documents\háskóli\vefþjónusta\small assignment iii - datafication\template (2)\template\datafication.webapi\properties\
+++Dtos
+i:{50fee6bb-4a40-48e7-ae63-9b313a264f18}:c:\users\danie\onedrive\documents\háskóli\vefþjónusta\small assignment iii - datafication\template (2)\template\datafication.models\dtos\
+++CategoryDto.cs
+i:{50fee6bb-4a40-48e7-ae63-9b313a264f18}:c:\users\danie\onedrive\documents\háskóli\vefþjónusta\small assignment iii - datafication\template (2)\template\datafication.models\dtos\categorydto.cs
+++IceCreamDetailsDto.cs
+i:{50fee6bb-4a40-48e7-ae63-9b313a264f18}:c:\users\danie\onedrive\documents\háskóli\vefþjónusta\small assignment iii - datafication\template (2)\template\datafication.models\dtos\icecreamdetailsdto.cs
+++IceCreamDto.cs
+i:{50fee6bb-4a40-48e7-ae63-9b313a264f18}:c:\users\danie\onedrive\documents\háskóli\vefþjónusta\small assignment iii - datafication\template (2)\template\datafication.models\dtos\icecreamdto.cs
+++ImageDetailsDto.cs
+i:{50fee6bb-4a40-48e7-ae63-9b313a264f18}:c:\users\danie\onedrive\documents\háskóli\vefþjónusta\small assignment iii - datafication\template (2)\template\datafication.models\dtos\imagedetailsdto.cs
+++ImageDto.cs
+i:{50fee6bb-4a40-48e7-ae63-9b313a264f18}:c:\users\danie\onedrive\documents\háskóli\vefþjónusta\small assignment iii - datafication\template (2)\template\datafication.models\dtos\imagedto.cs
+++ManufacturerDetailsDto.cs
+i:{50fee6bb-4a40-48e7-ae63-9b313a264f18}:c:\users\danie\onedrive\documents\háskóli\vefþjónusta\small assignment iii - datafication\template (2)\template\datafication.models\dtos\manufacturerdetailsdto.cs
+++ManufacturerDto.cs
+i:{50fee6bb-4a40-48e7-ae63-9b313a264f18}:c:\users\danie\onedrive\documents\háskóli\vefþjónusta\small assignment iii - datafication\template (2)\template\datafication.models\dtos\manufacturerdto.cs
+++InputModels
+i:{50fee6bb-4a40-48e7-ae63-9b313a264f18}:c:\users\danie\onedrive\documents\háskóli\vefþjónusta\small assignment iii - datafication\template (2)\template\datafication.models\inputmodels\
+++CategoryInputModel.cs
+i:{50fee6bb-4a40-48e7-ae63-9b313a264f18}:c:\users\danie\onedrive\documents\háskóli\vefþjónusta\small assignment iii - datafication\template (2)\template\datafication.models\inputmodels\categoryinputmodel.cs
+++IceCreamInputModel.cs
+i:{50fee6bb-4a40-48e7-ae63-9b313a264f18}:c:\users\danie\onedrive\documents\háskóli\vefþjónusta\small assignment iii - datafication\template (2)\template\datafication.models\inputmodels\icecreaminputmodel.cs
+++ImageInputModel.cs
+i:{50fee6bb-4a40-48e7-ae63-9b313a264f18}:c:\users\danie\onedrive\documents\háskóli\vefþjónusta\small assignment iii - datafication\template (2)\template\datafication.models\inputmodels\imageinputmodel.cs
+++Analyzers
+i:{50fee6bb-4a40-48e7-ae63-9b313a264f18}:analyzers
+i:{57d5c91b-218e-4d63-9672-bcd993b98fa6}:analyzers
+i:{1f183fe6-a913-4bab-a0d7-8d79ef64467f}:analyzers
+i:{572e8f75-97e5-4a59-91ef-2980a488a3fb}:analyzers
+++Frameworks
+i:{50fee6bb-4a40-48e7-ae63-9b313a264f18}:frameworks
+i:{57d5c91b-218e-4d63-9672-bcd993b98fa6}:frameworks
+i:{1f183fe6-a913-4bab-a0d7-8d79ef64467f}:frameworks
+i:{572e8f75-97e5-4a59-91ef-2980a488a3fb}:frameworks
+++launchSettings.json
+i:{50fee6bb-4a40-48e7-ae63-9b313a264f18}:c:\users\danie\onedrive\documents\háskóli\vefþjónusta\small assignment iii - datafication\template (2)\template\datafication.models\properties\launchsettings.json
+i:{572e8f75-97e5-4a59-91ef-2980a488a3fb}:c:\users\danie\onedrive\documents\háskóli\vefþjónusta\small assignment iii - datafication\template (2)\template\datafication.webapi\properties\launchsettings.json
+++Microsoft.CodeAnalysis.CSharp.NetAnalyzers
+i:{50fee6bb-4a40-48e7-ae63-9b313a264f18}:c:\program files\dotnet\sdk\6.0.100-rc.1.21463.6\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{57d5c91b-218e-4d63-9672-bcd993b98fa6}:c:\program files\dotnet\sdk\6.0.100-rc.1.21463.6\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{1f183fe6-a913-4bab-a0d7-8d79ef64467f}:c:\program files\dotnet\sdk\6.0.100-rc.1.21463.6\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{572e8f75-97e5-4a59-91ef-2980a488a3fb}:c:\program files\dotnet\sdk\6.0.100-rc.1.21463.6\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+++Microsoft.CodeAnalysis.NetAnalyzers
+i:{50fee6bb-4a40-48e7-ae63-9b313a264f18}:c:\program files\dotnet\sdk\6.0.100-rc.1.21463.6\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{57d5c91b-218e-4d63-9672-bcd993b98fa6}:c:\program files\dotnet\sdk\6.0.100-rc.1.21463.6\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{1f183fe6-a913-4bab-a0d7-8d79ef64467f}:c:\program files\dotnet\sdk\6.0.100-rc.1.21463.6\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{572e8f75-97e5-4a59-91ef-2980a488a3fb}:c:\program files\dotnet\sdk\6.0.100-rc.1.21463.6\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+++Microsoft.NETCore.App
+i:{50fee6bb-4a40-48e7-ae63-9b313a264f18}:c:\users\danie\onedrive\documents\háskóli\vefþjónusta\small assignment iii - datafication\template (2)\template\datafication.models\microsoft.netcore.app
+i:{57d5c91b-218e-4d63-9672-bcd993b98fa6}:c:\users\danie\onedrive\documents\háskóli\vefþjónusta\small assignment iii - datafication\template (2)\template\datafication.repositories\microsoft.netcore.app
+i:{1f183fe6-a913-4bab-a0d7-8d79ef64467f}:c:\users\danie\onedrive\documents\háskóli\vefþjónusta\small assignment iii - datafication\template (2)\template\datafication.services\microsoft.netcore.app
+i:{572e8f75-97e5-4a59-91ef-2980a488a3fb}:c:\users\danie\onedrive\documents\háskóli\vefþjónusta\small assignment iii - datafication\template (2)\template\datafication.webapi\microsoft.netcore.app
+++Datafication.Repositories
+i:{00000000-0000-0000-0000-000000000000}:Datafication.Repositories
+i:{1f183fe6-a913-4bab-a0d7-8d79ef64467f}:c:\users\danie\onedrive\documents\háskóli\vefþjónusta\small assignment iii - datafication\template (2)\template\datafication.repositories\datafication.repositories.csproj
+i:{572e8f75-97e5-4a59-91ef-2980a488a3fb}:c:\users\danie\onedrive\documents\háskóli\vefþjónusta\small assignment iii - datafication\template (2)\template\datafication.repositories\datafication.repositories.csproj
+++Contexts
+i:{57d5c91b-218e-4d63-9672-bcd993b98fa6}:c:\users\danie\onedrive\documents\háskóli\vefþjónusta\small assignment iii - datafication\template (2)\template\datafication.repositories\contexts\
+++DataficationDbContext.cs
+i:{57d5c91b-218e-4d63-9672-bcd993b98fa6}:c:\users\danie\onedrive\documents\háskóli\vefþjónusta\small assignment iii - datafication\template (2)\template\datafication.repositories\contexts\dataficationdbcontext.cs
+++Entities
+i:{57d5c91b-218e-4d63-9672-bcd993b98fa6}:c:\users\danie\onedrive\documents\háskóli\vefþjónusta\small assignment iii - datafication\template (2)\template\datafication.repositories\entities\
+++Category.cs
+i:{57d5c91b-218e-4d63-9672-bcd993b98fa6}:c:\users\danie\onedrive\documents\háskóli\vefþjónusta\small assignment iii - datafication\template (2)\template\datafication.repositories\entities\category.cs
+++IceCream.cs
+i:{57d5c91b-218e-4d63-9672-bcd993b98fa6}:c:\users\danie\onedrive\documents\háskóli\vefþjónusta\small assignment iii - datafication\template (2)\template\datafication.repositories\entities\icecream.cs
+++Image.cs
+i:{57d5c91b-218e-4d63-9672-bcd993b98fa6}:c:\users\danie\onedrive\documents\háskóli\vefþjónusta\small assignment iii - datafication\template (2)\template\datafication.repositories\entities\image.cs
+++Manufacturer.cs
+i:{57d5c91b-218e-4d63-9672-bcd993b98fa6}:c:\users\danie\onedrive\documents\háskóli\vefþjónusta\small assignment iii - datafication\template (2)\template\datafication.repositories\entities\manufacturer.cs
+++Implementations
+i:{57d5c91b-218e-4d63-9672-bcd993b98fa6}:c:\users\danie\onedrive\documents\háskóli\vefþjónusta\small assignment iii - datafication\template (2)\template\datafication.repositories\implementations\
+i:{1f183fe6-a913-4bab-a0d7-8d79ef64467f}:c:\users\danie\onedrive\documents\háskóli\vefþjónusta\small assignment iii - datafication\template (2)\template\datafication.services\implementations\
+++CategoryRepository.cs
+i:{57d5c91b-218e-4d63-9672-bcd993b98fa6}:c:\users\danie\onedrive\documents\háskóli\vefþjónusta\small assignment iii - datafication\template (2)\template\datafication.repositories\implementations\categoryrepository.cs
+++IceCreamRepository.cs
+i:{57d5c91b-218e-4d63-9672-bcd993b98fa6}:c:\users\danie\onedrive\documents\háskóli\vefþjónusta\small assignment iii - datafication\template (2)\template\datafication.repositories\implementations\icecreamrepository.cs
+++ImageRepository.cs
+i:{57d5c91b-218e-4d63-9672-bcd993b98fa6}:c:\users\danie\onedrive\documents\háskóli\vefþjónusta\small assignment iii - datafication\template (2)\template\datafication.repositories\implementations\imagerepository.cs
+++ManufacturerRepository.cs
+i:{57d5c91b-218e-4d63-9672-bcd993b98fa6}:c:\users\danie\onedrive\documents\háskóli\vefþjónusta\small assignment iii - datafication\template (2)\template\datafication.repositories\implementations\manufacturerrepository.cs
+++Interfaces
+i:{57d5c91b-218e-4d63-9672-bcd993b98fa6}:c:\users\danie\onedrive\documents\háskóli\vefþjónusta\small assignment iii - datafication\template (2)\template\datafication.repositories\interfaces\
+i:{1f183fe6-a913-4bab-a0d7-8d79ef64467f}:c:\users\danie\onedrive\documents\háskóli\vefþjónusta\small assignment iii - datafication\template (2)\template\datafication.services\interfaces\
+++ICategoryRepository.cs
+i:{57d5c91b-218e-4d63-9672-bcd993b98fa6}:c:\users\danie\onedrive\documents\háskóli\vefþjónusta\small assignment iii - datafication\template (2)\template\datafication.repositories\interfaces\icategoryrepository.cs
+++IIceCreamRepository.cs
+i:{57d5c91b-218e-4d63-9672-bcd993b98fa6}:c:\users\danie\onedrive\documents\háskóli\vefþjónusta\small assignment iii - datafication\template (2)\template\datafication.repositories\interfaces\iicecreamrepository.cs
+++IImageRepository.cs
+i:{57d5c91b-218e-4d63-9672-bcd993b98fa6}:c:\users\danie\onedrive\documents\háskóli\vefþjónusta\small assignment iii - datafication\template (2)\template\datafication.repositories\interfaces\iimagerepository.cs
+++IManufacturerRepository.cs
+i:{57d5c91b-218e-4d63-9672-bcd993b98fa6}:c:\users\danie\onedrive\documents\háskóli\vefþjónusta\small assignment iii - datafication\template (2)\template\datafication.repositories\interfaces\imanufacturerrepository.cs
+++Scripts
+i:{57d5c91b-218e-4d63-9672-bcd993b98fa6}:c:\users\danie\onedrive\documents\háskóli\vefþjónusta\small assignment iii - datafication\template (2)\template\datafication.repositories\scripts\
+++population.sql
+i:{57d5c91b-218e-4d63-9672-bcd993b98fa6}:c:\users\danie\onedrive\documents\háskóli\vefþjónusta\small assignment iii - datafication\template (2)\template\datafication.repositories\scripts\population.sql
+++Packages
+i:{57d5c91b-218e-4d63-9672-bcd993b98fa6}:packages
+i:{1f183fe6-a913-4bab-a0d7-8d79ef64467f}:packages
+i:{572e8f75-97e5-4a59-91ef-2980a488a3fb}:packages
+++Projects
+i:{57d5c91b-218e-4d63-9672-bcd993b98fa6}:projects
+i:{1f183fe6-a913-4bab-a0d7-8d79ef64467f}:projects
+i:{572e8f75-97e5-4a59-91ef-2980a488a3fb}:projects
+++Microsoft.EntityFrameworkCore.Analyzers
+i:{57d5c91b-218e-4d63-9672-bcd993b98fa6}:c:\users\danie\.nuget\packages\microsoft.entityframeworkcore.analyzers\5.0.10\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
+i:{1f183fe6-a913-4bab-a0d7-8d79ef64467f}:c:\users\danie\.nuget\packages\microsoft.entityframeworkcore.analyzers\5.0.10\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
+i:{572e8f75-97e5-4a59-91ef-2980a488a3fb}:c:\users\danie\.nuget\packages\microsoft.entityframeworkcore.analyzers\5.0.10\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
+++Microsoft.EntityFrameworkCore (5.0.10)
+i:{57d5c91b-218e-4d63-9672-bcd993b98fa6}:>790
+i:{572e8f75-97e5-4a59-91ef-2980a488a3fb}:>830
+++Datafication.Services
+i:{00000000-0000-0000-0000-000000000000}:Datafication.Services
+i:{572e8f75-97e5-4a59-91ef-2980a488a3fb}:c:\users\danie\onedrive\documents\háskóli\vefþjónusta\small assignment iii - datafication\template (2)\template\datafication.services\datafication.services.csproj
+++CategoryService.cs
+i:{1f183fe6-a913-4bab-a0d7-8d79ef64467f}:c:\users\danie\onedrive\documents\háskóli\vefþjónusta\small assignment iii - datafication\template (2)\template\datafication.services\implementations\categoryservice.cs
+++IceCreamService.cs
+i:{1f183fe6-a913-4bab-a0d7-8d79ef64467f}:c:\users\danie\onedrive\documents\háskóli\vefþjónusta\small assignment iii - datafication\template (2)\template\datafication.services\implementations\icecreamservice.cs
+++ImageService.cs
+i:{1f183fe6-a913-4bab-a0d7-8d79ef64467f}:c:\users\danie\onedrive\documents\háskóli\vefþjónusta\small assignment iii - datafication\template (2)\template\datafication.services\implementations\imageservice.cs
+++ManufacturerService.cs
+i:{1f183fe6-a913-4bab-a0d7-8d79ef64467f}:c:\users\danie\onedrive\documents\háskóli\vefþjónusta\small assignment iii - datafication\template (2)\template\datafication.services\implementations\manufacturerservice.cs
+++ICategoryService.cs
+i:{1f183fe6-a913-4bab-a0d7-8d79ef64467f}:c:\users\danie\onedrive\documents\háskóli\vefþjónusta\small assignment iii - datafication\template (2)\template\datafication.services\interfaces\icategoryservice.cs
+++IIceCreamService.cs
+i:{1f183fe6-a913-4bab-a0d7-8d79ef64467f}:c:\users\danie\onedrive\documents\háskóli\vefþjónusta\small assignment iii - datafication\template (2)\template\datafication.services\interfaces\iicecreamservice.cs
+++IImageService.cs
+i:{1f183fe6-a913-4bab-a0d7-8d79ef64467f}:c:\users\danie\onedrive\documents\háskóli\vefþjónusta\small assignment iii - datafication\template (2)\template\datafication.services\interfaces\iimageservice.cs
+++IManufacturerService.cs
+i:{1f183fe6-a913-4bab-a0d7-8d79ef64467f}:c:\users\danie\onedrive\documents\háskóli\vefþjónusta\small assignment iii - datafication\template (2)\template\datafication.services\interfaces\imanufacturerservice.cs
+++Microsoft.EntityFrameworkCore.Sqlite (5.0.10)
+i:{1f183fe6-a913-4bab-a0d7-8d79ef64467f}:>780
+i:{572e8f75-97e5-4a59-91ef-2980a488a3fb}:>806
+++Datafication.WebAPI
+i:{00000000-0000-0000-0000-000000000000}:Datafication.WebAPI
+++Connected Services 
+i:{572e8f75-97e5-4a59-91ef-2980a488a3fb}:>767
+++Imports
+i:{572e8f75-97e5-4a59-91ef-2980a488a3fb}:>491
+++bin
+i:{572e8f75-97e5-4a59-91ef-2980a488a3fb}:c:\users\danie\onedrive\documents\háskóli\vefþjónusta\small assignment iii - datafication\template (2)\template\datafication.webapi\bin\
+++Controllers
+i:{572e8f75-97e5-4a59-91ef-2980a488a3fb}:c:\users\danie\onedrive\documents\háskóli\vefþjónusta\small assignment iii - datafication\template (2)\template\datafication.webapi\controllers\
+++CategoryController.cs
+i:{572e8f75-97e5-4a59-91ef-2980a488a3fb}:c:\users\danie\onedrive\documents\háskóli\vefþjónusta\small assignment iii - datafication\template (2)\template\datafication.webapi\controllers\categorycontroller.cs
+++IceCreamController.cs
+i:{572e8f75-97e5-4a59-91ef-2980a488a3fb}:c:\users\danie\onedrive\documents\háskóli\vefþjónusta\small assignment iii - datafication\template (2)\template\datafication.webapi\controllers\icecreamcontroller.cs
+++ImageController.cs
+i:{572e8f75-97e5-4a59-91ef-2980a488a3fb}:c:\users\danie\onedrive\documents\háskóli\vefþjónusta\small assignment iii - datafication\template (2)\template\datafication.webapi\controllers\imagecontroller.cs
+++ManufacturerController.cs
+i:{572e8f75-97e5-4a59-91ef-2980a488a3fb}:c:\users\danie\onedrive\documents\háskóli\vefþjónusta\small assignment iii - datafication\template (2)\template\datafication.webapi\controllers\manufacturercontroller.cs
+++obj
+i:{572e8f75-97e5-4a59-91ef-2980a488a3fb}:c:\users\danie\onedrive\documents\háskóli\vefþjónusta\small assignment iii - datafication\template (2)\template\datafication.webapi\obj\
+++appsettings.Development.json
+i:{572e8f75-97e5-4a59-91ef-2980a488a3fb}:c:\users\danie\onedrive\documents\háskóli\vefþjónusta\small assignment iii - datafication\template (2)\template\datafication.webapi\appsettings.development.json
+i:{572e8f75-97e5-4a59-91ef-2980a488a3fb}:c:\users\danie\onedrive\documents\háskóli\vefþjónusta\small assignment iii - datafication\template (2)\template\datafication.webapi\bin\debug\net5.0\appsettings.development.json
+++appsettings.json
+i:{572e8f75-97e5-4a59-91ef-2980a488a3fb}:c:\users\danie\onedrive\documents\háskóli\vefþjónusta\small assignment iii - datafication\template (2)\template\datafication.webapi\appsettings.json
+i:{572e8f75-97e5-4a59-91ef-2980a488a3fb}:c:\users\danie\onedrive\documents\háskóli\vefþjónusta\small assignment iii - datafication\template (2)\template\datafication.webapi\bin\debug\net5.0\appsettings.json
+++IceCreamDb.db
+i:{572e8f75-97e5-4a59-91ef-2980a488a3fb}:c:\users\danie\onedrive\documents\háskóli\vefþjónusta\small assignment iii - datafication\template (2)\template\datafication.webapi\icecreamdb.db
+i:{572e8f75-97e5-4a59-91ef-2980a488a3fb}:c:\users\danie\onedrive\documents\háskóli\vefþjónusta\small assignment iii - datafication\template (2)\template\datafication.webapi\bin\debug\net5.0\icecreamdb.db
+++Program.cs
+i:{572e8f75-97e5-4a59-91ef-2980a488a3fb}:c:\users\danie\onedrive\documents\háskóli\vefþjónusta\small assignment iii - datafication\template (2)\template\datafication.webapi\program.cs
+++Startup.cs
+i:{572e8f75-97e5-4a59-91ef-2980a488a3fb}:c:\users\danie\onedrive\documents\háskóli\vefþjónusta\small assignment iii - datafication\template (2)\template\datafication.webapi\startup.cs
+++No service dependencies discovered
+++Sdk.props
+i:{572e8f75-97e5-4a59-91ef-2980a488a3fb}:c:\program files\dotnet\sdk\6.0.100-rc.1.21463.6\sdks\microsoft.net.sdk.web\sdk\sdk.props
+i:{572e8f75-97e5-4a59-91ef-2980a488a3fb}:c:\program files\dotnet\sdk\6.0.100-rc.1.21463.6\sdks\microsoft.net.sdk\sdk\sdk.props
+i:{572e8f75-97e5-4a59-91ef-2980a488a3fb}:c:\program files\dotnet\sdk\6.0.100-rc.1.21463.6\sdks\microsoft.net.sdk.razor\sdk\sdk.props
+i:{572e8f75-97e5-4a59-91ef-2980a488a3fb}:c:\program files\dotnet\sdk\6.0.100-rc.1.21463.6\sdks\microsoft.net.sdk.web.projectsystem\sdk\sdk.props
+i:{572e8f75-97e5-4a59-91ef-2980a488a3fb}:c:\program files\dotnet\sdk\6.0.100-rc.1.21463.6\sdks\microsoft.net.sdk.publish\sdk\sdk.props
+i:{572e8f75-97e5-4a59-91ef-2980a488a3fb}:c:\program files\dotnet\sdk\6.0.100-rc.1.21463.6\sdks\microsoft.net.illink.tasks\sdk\sdk.props
+++Sdk.targets
+i:{572e8f75-97e5-4a59-91ef-2980a488a3fb}:c:\program files\dotnet\sdk\6.0.100-rc.1.21463.6\sdks\microsoft.net.sdk.web\sdk\sdk.targets
+i:{572e8f75-97e5-4a59-91ef-2980a488a3fb}:c:\program files\dotnet\sdk\6.0.100-rc.1.21463.6\sdks\microsoft.net.sdk\sdk\sdk.targets
+i:{572e8f75-97e5-4a59-91ef-2980a488a3fb}:c:\program files\dotnet\sdk\6.0.100-rc.1.21463.6\sdks\microsoft.net.sdk.razor\sdk\sdk.targets
+i:{572e8f75-97e5-4a59-91ef-2980a488a3fb}:c:\program files\dotnet\sdk\6.0.100-rc.1.21463.6\sdks\microsoft.net.sdk.web.projectsystem\sdk\sdk.targets
+i:{572e8f75-97e5-4a59-91ef-2980a488a3fb}:c:\program files\dotnet\sdk\6.0.100-rc.1.21463.6\sdks\microsoft.net.sdk.publish\sdk\sdk.targets
+++Debug
+i:{572e8f75-97e5-4a59-91ef-2980a488a3fb}:c:\users\danie\onedrive\documents\háskóli\vefþjónusta\small assignment iii - datafication\template (2)\template\datafication.webapi\bin\debug\
+i:{572e8f75-97e5-4a59-91ef-2980a488a3fb}:c:\users\danie\onedrive\documents\háskóli\vefþjónusta\small assignment iii - datafication\template (2)\template\datafication.webapi\obj\debug\
+++Release
+i:{572e8f75-97e5-4a59-91ef-2980a488a3fb}:c:\users\danie\onedrive\documents\háskóli\vefþjónusta\small assignment iii - datafication\template (2)\template\datafication.webapi\bin\release\
+i:{572e8f75-97e5-4a59-91ef-2980a488a3fb}:c:\users\danie\onedrive\documents\háskóli\vefþjónusta\small assignment iii - datafication\template (2)\template\datafication.webapi\obj\release\
+++Datafication.WebAPI.csproj.nuget.dgspec.json
+i:{572e8f75-97e5-4a59-91ef-2980a488a3fb}:c:\users\danie\onedrive\documents\háskóli\vefþjónusta\small assignment iii - datafication\template (2)\template\datafication.webapi\obj\datafication.webapi.csproj.nuget.dgspec.json
+++Datafication.WebAPI.csproj.nuget.g.props
+i:{572e8f75-97e5-4a59-91ef-2980a488a3fb}:c:\users\danie\onedrive\documents\háskóli\vefþjónusta\small assignment iii - datafication\template (2)\template\datafication.webapi\obj\datafication.webapi.csproj.nuget.g.props
+i:{572e8f75-97e5-4a59-91ef-2980a488a3fb}:c:\users\danie\onedrive\documents\háskóli\vefþjónusta\small assignment iii - datafication\template (2)\template\datafication.webapi\obj\datafication.webapi.csproj.nuget.g.props
+++Datafication.WebAPI.csproj.nuget.g.targets
+i:{572e8f75-97e5-4a59-91ef-2980a488a3fb}:c:\users\danie\onedrive\documents\háskóli\vefþjónusta\small assignment iii - datafication\template (2)\template\datafication.webapi\obj\datafication.webapi.csproj.nuget.g.targets
+i:{572e8f75-97e5-4a59-91ef-2980a488a3fb}:c:\users\danie\onedrive\documents\háskóli\vefþjónusta\small assignment iii - datafication\template (2)\template\datafication.webapi\obj\datafication.webapi.csproj.nuget.g.targets
+++project.assets.json
+i:{572e8f75-97e5-4a59-91ef-2980a488a3fb}:c:\users\danie\onedrive\documents\háskóli\vefþjónusta\small assignment iii - datafication\template (2)\template\datafication.webapi\obj\project.assets.json
+++project.nuget.cache
+i:{572e8f75-97e5-4a59-91ef-2980a488a3fb}:c:\users\danie\onedrive\documents\háskóli\vefþjónusta\small assignment iii - datafication\template (2)\template\datafication.webapi\obj\project.nuget.cache
+++Microsoft.AspNetCore.Analyzers
+i:{572e8f75-97e5-4a59-91ef-2980a488a3fb}:c:\program files\dotnet\sdk\6.0.100-rc.1.21463.6\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.analyzers.dll
+++Microsoft.AspNetCore.Components.Analyzers
+i:{572e8f75-97e5-4a59-91ef-2980a488a3fb}:c:\program files\dotnet\sdk\6.0.100-rc.1.21463.6\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.components.analyzers.dll
+++Microsoft.AspNetCore.Mvc.Analyzers
+i:{572e8f75-97e5-4a59-91ef-2980a488a3fb}:c:\program files\dotnet\sdk\6.0.100-rc.1.21463.6\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.mvc.analyzers.dll
+++Microsoft.AspNetCore.App
+i:{572e8f75-97e5-4a59-91ef-2980a488a3fb}:c:\users\danie\onedrive\documents\háskóli\vefþjónusta\small assignment iii - datafication\template (2)\template\datafication.webapi\microsoft.aspnetcore.app
+++Microsoft.EntityFrameworkCore.Design (5.0.10)
+i:{572e8f75-97e5-4a59-91ef-2980a488a3fb}:>804
+++Swashbuckle.AspNetCore (5.6.3)
+i:{572e8f75-97e5-4a59-91ef-2980a488a3fb}:>805
+++net5.0
+i:{572e8f75-97e5-4a59-91ef-2980a488a3fb}:c:\users\danie\onedrive\documents\háskóli\vefþjónusta\small assignment iii - datafication\template (2)\template\datafication.webapi\bin\debug\net5.0\
+i:{572e8f75-97e5-4a59-91ef-2980a488a3fb}:c:\users\danie\onedrive\documents\háskóli\vefþjónusta\small assignment iii - datafication\template (2)\template\datafication.webapi\bin\release\net5.0\
+i:{572e8f75-97e5-4a59-91ef-2980a488a3fb}:c:\users\danie\onedrive\documents\háskóli\vefþjónusta\small assignment iii - datafication\template (2)\template\datafication.webapi\obj\debug\net5.0\
+i:{572e8f75-97e5-4a59-91ef-2980a488a3fb}:c:\users\danie\onedrive\documents\háskóli\vefþjónusta\small assignment iii - datafication\template (2)\template\datafication.webapi\obj\release\net5.0\
+++Microsoft.Common.props
+i:{572e8f75-97e5-4a59-91ef-2980a488a3fb}:c:\program files\microsoft visual studio\2022\preview\msbuild\current\microsoft.common.props
+++Microsoft.NET.Sdk.props
+i:{572e8f75-97e5-4a59-91ef-2980a488a3fb}:c:\program files\dotnet\sdk\6.0.100-rc.1.21463.6\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.props
+++Sdk.Razor.CurrentVersion.props
+i:{572e8f75-97e5-4a59-91ef-2980a488a3fb}:c:\program files\dotnet\sdk\6.0.100-rc.1.21463.6\sdks\microsoft.net.sdk.razor\targets\sdk.razor.currentversion.props
+++Microsoft.NET.Sdk.Web.ProjectSystem.props
+i:{572e8f75-97e5-4a59-91ef-2980a488a3fb}:c:\program files\dotnet\sdk\6.0.100-rc.1.21463.6\sdks\microsoft.net.sdk.web.projectsystem\targets\microsoft.net.sdk.web.projectsystem.props
+++Microsoft.NET.Sdk.Publish.props
+i:{572e8f75-97e5-4a59-91ef-2980a488a3fb}:c:\program files\dotnet\sdk\6.0.100-rc.1.21463.6\sdks\microsoft.net.sdk.publish\targets\microsoft.net.sdk.publish.props
+++Microsoft.NET.Sdk.BeforeCommon.targets
+i:{572e8f75-97e5-4a59-91ef-2980a488a3fb}:c:\program files\dotnet\sdk\6.0.100-rc.1.21463.6\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.beforecommon.targets
+++Microsoft.CSharp.targets
+i:{572e8f75-97e5-4a59-91ef-2980a488a3fb}:c:\program files\microsoft visual studio\2022\preview\msbuild\current\bin\amd64\microsoft.csharp.targets
+++Microsoft.NET.Sdk.targets
+i:{572e8f75-97e5-4a59-91ef-2980a488a3fb}:c:\program files\dotnet\sdk\6.0.100-rc.1.21463.6\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.targets
+++Microsoft.NET.Compatibility.targets
+i:{572e8f75-97e5-4a59-91ef-2980a488a3fb}:c:\program files\dotnet\sdk\6.0.100-rc.1.21463.6\sdks\microsoft.net.sdk\targets\microsoft.net.compatibility.targets
+++NuGet.Build.Tasks.Pack.targets
+i:{572e8f75-97e5-4a59-91ef-2980a488a3fb}:c:\program files\dotnet\sdk\6.0.100-rc.1.21463.6\sdks\nuget.build.tasks.pack\build\nuget.build.tasks.pack.targets
+++Sdk.Razor.CurrentVersion.targets
+i:{572e8f75-97e5-4a59-91ef-2980a488a3fb}:c:\program files\dotnet\sdk\6.0.100-rc.1.21463.6\sdks\microsoft.net.sdk.razor\targets\sdk.razor.currentversion.targets
+++Microsoft.NET.Sdk.Web.ProjectSystem.targets
+i:{572e8f75-97e5-4a59-91ef-2980a488a3fb}:c:\program files\dotnet\sdk\6.0.100-rc.1.21463.6\sdks\microsoft.net.sdk.web.projectsystem\targets\microsoft.net.sdk.web.projectsystem.targets
+++Microsoft.NET.Sdk.Publish.targets
+i:{572e8f75-97e5-4a59-91ef-2980a488a3fb}:c:\program files\dotnet\sdk\6.0.100-rc.1.21463.6\sdks\microsoft.net.sdk.publish\targets\microsoft.net.sdk.publish.targets
+++ref
+i:{572e8f75-97e5-4a59-91ef-2980a488a3fb}:c:\users\danie\onedrive\documents\háskóli\vefþjónusta\small assignment iii - datafication\template (2)\template\datafication.webapi\bin\debug\net5.0\ref\
+i:{572e8f75-97e5-4a59-91ef-2980a488a3fb}:c:\users\danie\onedrive\documents\háskóli\vefþjónusta\small assignment iii - datafication\template (2)\template\datafication.webapi\bin\release\net5.0\ref\
+i:{572e8f75-97e5-4a59-91ef-2980a488a3fb}:c:\users\danie\onedrive\documents\háskóli\vefþjónusta\small assignment iii - datafication\template (2)\template\datafication.webapi\obj\debug\net5.0\ref\
+i:{572e8f75-97e5-4a59-91ef-2980a488a3fb}:c:\users\danie\onedrive\documents\háskóli\vefþjónusta\small assignment iii - datafication\template (2)\template\datafication.webapi\obj\release\net5.0\ref\
+++runtimes
+i:{572e8f75-97e5-4a59-91ef-2980a488a3fb}:c:\users\danie\onedrive\documents\háskóli\vefþjónusta\small assignment iii - datafication\template (2)\template\datafication.webapi\bin\debug\net5.0\runtimes\
+++Datafication.Models.dll
+i:{572e8f75-97e5-4a59-91ef-2980a488a3fb}:c:\users\danie\onedrive\documents\háskóli\vefþjónusta\small assignment iii - datafication\template (2)\template\datafication.webapi\bin\debug\net5.0\datafication.models.dll
+++Datafication.Models.pdb
+i:{572e8f75-97e5-4a59-91ef-2980a488a3fb}:c:\users\danie\onedrive\documents\háskóli\vefþjónusta\small assignment iii - datafication\template (2)\template\datafication.webapi\bin\debug\net5.0\datafication.models.pdb
+++Datafication.Repositories.dll
+i:{572e8f75-97e5-4a59-91ef-2980a488a3fb}:c:\users\danie\onedrive\documents\háskóli\vefþjónusta\small assignment iii - datafication\template (2)\template\datafication.webapi\bin\debug\net5.0\datafication.repositories.dll
+++Datafication.Repositories.pdb
+i:{572e8f75-97e5-4a59-91ef-2980a488a3fb}:c:\users\danie\onedrive\documents\háskóli\vefþjónusta\small assignment iii - datafication\template (2)\template\datafication.webapi\bin\debug\net5.0\datafication.repositories.pdb
+++Datafication.Services.dll
+i:{572e8f75-97e5-4a59-91ef-2980a488a3fb}:c:\users\danie\onedrive\documents\háskóli\vefþjónusta\small assignment iii - datafication\template (2)\template\datafication.webapi\bin\debug\net5.0\datafication.services.dll
+++Datafication.Services.pdb
+i:{572e8f75-97e5-4a59-91ef-2980a488a3fb}:c:\users\danie\onedrive\documents\háskóli\vefþjónusta\small assignment iii - datafication\template (2)\template\datafication.webapi\bin\debug\net5.0\datafication.services.pdb
+++Datafication.WebAPI.deps.json
+i:{572e8f75-97e5-4a59-91ef-2980a488a3fb}:c:\users\danie\onedrive\documents\háskóli\vefþjónusta\small assignment iii - datafication\template (2)\template\datafication.webapi\bin\debug\net5.0\datafication.webapi.deps.json
+++Datafication.WebAPI.dll
+i:{572e8f75-97e5-4a59-91ef-2980a488a3fb}:c:\users\danie\onedrive\documents\háskóli\vefþjónusta\small assignment iii - datafication\template (2)\template\datafication.webapi\bin\debug\net5.0\datafication.webapi.dll
+i:{572e8f75-97e5-4a59-91ef-2980a488a3fb}:c:\users\danie\onedrive\documents\háskóli\vefþjónusta\small assignment iii - datafication\template (2)\template\datafication.webapi\obj\debug\net5.0\datafication.webapi.dll
+i:{572e8f75-97e5-4a59-91ef-2980a488a3fb}:c:\users\danie\onedrive\documents\háskóli\vefþjónusta\small assignment iii - datafication\template (2)\template\datafication.webapi\bin\debug\net5.0\ref\datafication.webapi.dll
+i:{572e8f75-97e5-4a59-91ef-2980a488a3fb}:c:\users\danie\onedrive\documents\háskóli\vefþjónusta\small assignment iii - datafication\template (2)\template\datafication.webapi\obj\debug\net5.0\ref\datafication.webapi.dll
+++Datafication.WebAPI.exe
+i:{572e8f75-97e5-4a59-91ef-2980a488a3fb}:c:\users\danie\onedrive\documents\háskóli\vefþjónusta\small assignment iii - datafication\template (2)\template\datafication.webapi\bin\debug\net5.0\datafication.webapi.exe
+++Datafication.WebAPI.pdb
+i:{572e8f75-97e5-4a59-91ef-2980a488a3fb}:c:\users\danie\onedrive\documents\háskóli\vefþjónusta\small assignment iii - datafication\template (2)\template\datafication.webapi\bin\debug\net5.0\datafication.webapi.pdb
+i:{572e8f75-97e5-4a59-91ef-2980a488a3fb}:c:\users\danie\onedrive\documents\háskóli\vefþjónusta\small assignment iii - datafication\template (2)\template\datafication.webapi\obj\debug\net5.0\datafication.webapi.pdb
+++Datafication.WebAPI.runtimeconfig.dev.json
+i:{572e8f75-97e5-4a59-91ef-2980a488a3fb}:c:\users\danie\onedrive\documents\háskóli\vefþjónusta\small assignment iii - datafication\template (2)\template\datafication.webapi\bin\debug\net5.0\datafication.webapi.runtimeconfig.dev.json
+++Datafication.WebAPI.runtimeconfig.json
+i:{572e8f75-97e5-4a59-91ef-2980a488a3fb}:c:\users\danie\onedrive\documents\háskóli\vefþjónusta\small assignment iii - datafication\template (2)\template\datafication.webapi\bin\debug\net5.0\datafication.webapi.runtimeconfig.json
+++Humanizer.dll
+i:{572e8f75-97e5-4a59-91ef-2980a488a3fb}:c:\users\danie\onedrive\documents\háskóli\vefþjónusta\small assignment iii - datafication\template (2)\template\datafication.webapi\bin\debug\net5.0\humanizer.dll
+++Microsoft.Data.Sqlite.dll
+i:{572e8f75-97e5-4a59-91ef-2980a488a3fb}:c:\users\danie\onedrive\documents\háskóli\vefþjónusta\small assignment iii - datafication\template (2)\template\datafication.webapi\bin\debug\net5.0\microsoft.data.sqlite.dll
+++Microsoft.DotNet.PlatformAbstractions.dll
+i:{572e8f75-97e5-4a59-91ef-2980a488a3fb}:c:\users\danie\onedrive\documents\háskóli\vefþjónusta\small assignment iii - datafication\template (2)\template\datafication.webapi\bin\debug\net5.0\microsoft.dotnet.platformabstractions.dll
+++Microsoft.EntityFrameworkCore.Abstractions.dll
+i:{572e8f75-97e5-4a59-91ef-2980a488a3fb}:c:\users\danie\onedrive\documents\háskóli\vefþjónusta\small assignment iii - datafication\template (2)\template\datafication.webapi\bin\debug\net5.0\microsoft.entityframeworkcore.abstractions.dll
+++Microsoft.EntityFrameworkCore.Design.dll
+i:{572e8f75-97e5-4a59-91ef-2980a488a3fb}:c:\users\danie\onedrive\documents\háskóli\vefþjónusta\small assignment iii - datafication\template (2)\template\datafication.webapi\bin\debug\net5.0\microsoft.entityframeworkcore.design.dll
+++Microsoft.EntityFrameworkCore.dll
+i:{572e8f75-97e5-4a59-91ef-2980a488a3fb}:c:\users\danie\onedrive\documents\háskóli\vefþjónusta\small assignment iii - datafication\template (2)\template\datafication.webapi\bin\debug\net5.0\microsoft.entityframeworkcore.dll
+++Microsoft.EntityFrameworkCore.Relational.dll
+i:{572e8f75-97e5-4a59-91ef-2980a488a3fb}:c:\users\danie\onedrive\documents\háskóli\vefþjónusta\small assignment iii - datafication\template (2)\template\datafication.webapi\bin\debug\net5.0\microsoft.entityframeworkcore.relational.dll
+++Microsoft.EntityFrameworkCore.Sqlite.dll
+i:{572e8f75-97e5-4a59-91ef-2980a488a3fb}:c:\users\danie\onedrive\documents\háskóli\vefþjónusta\small assignment iii - datafication\template (2)\template\datafication.webapi\bin\debug\net5.0\microsoft.entityframeworkcore.sqlite.dll
+++Microsoft.Extensions.DependencyInjection.dll
+i:{572e8f75-97e5-4a59-91ef-2980a488a3fb}:c:\users\danie\onedrive\documents\háskóli\vefþjónusta\small assignment iii - datafication\template (2)\template\datafication.webapi\bin\debug\net5.0\microsoft.extensions.dependencyinjection.dll
+++Microsoft.Extensions.DependencyModel.dll
+i:{572e8f75-97e5-4a59-91ef-2980a488a3fb}:c:\users\danie\onedrive\documents\háskóli\vefþjónusta\small assignment iii - datafication\template (2)\template\datafication.webapi\bin\debug\net5.0\microsoft.extensions.dependencymodel.dll
+++Microsoft.OpenApi.dll
+i:{572e8f75-97e5-4a59-91ef-2980a488a3fb}:c:\users\danie\onedrive\documents\háskóli\vefþjónusta\small assignment iii - datafication\template (2)\template\datafication.webapi\bin\debug\net5.0\microsoft.openapi.dll
+++SQLitePCLRaw.batteries_v2.dll
+i:{572e8f75-97e5-4a59-91ef-2980a488a3fb}:c:\users\danie\onedrive\documents\háskóli\vefþjónusta\small assignment iii - datafication\template (2)\template\datafication.webapi\bin\debug\net5.0\sqlitepclraw.batteries_v2.dll
+++SQLitePCLRaw.core.dll
+i:{572e8f75-97e5-4a59-91ef-2980a488a3fb}:c:\users\danie\onedrive\documents\háskóli\vefþjónusta\small assignment iii - datafication\template (2)\template\datafication.webapi\bin\debug\net5.0\sqlitepclraw.core.dll
+++SQLitePCLRaw.nativelibrary.dll
+i:{572e8f75-97e5-4a59-91ef-2980a488a3fb}:c:\users\danie\onedrive\documents\háskóli\vefþjónusta\small assignment iii - datafication\template (2)\template\datafication.webapi\bin\debug\net5.0\sqlitepclraw.nativelibrary.dll
+++SQLitePCLRaw.provider.dynamic_cdecl.dll
+i:{572e8f75-97e5-4a59-91ef-2980a488a3fb}:c:\users\danie\onedrive\documents\háskóli\vefþjónusta\small assignment iii - datafication\template (2)\template\datafication.webapi\bin\debug\net5.0\sqlitepclraw.provider.dynamic_cdecl.dll
+++Swashbuckle.AspNetCore.Swagger.dll
+i:{572e8f75-97e5-4a59-91ef-2980a488a3fb}:c:\users\danie\onedrive\documents\háskóli\vefþjónusta\small assignment iii - datafication\template (2)\template\datafication.webapi\bin\debug\net5.0\swashbuckle.aspnetcore.swagger.dll
+++Swashbuckle.AspNetCore.SwaggerGen.dll
+i:{572e8f75-97e5-4a59-91ef-2980a488a3fb}:c:\users\danie\onedrive\documents\háskóli\vefþjónusta\small assignment iii - datafication\template (2)\template\datafication.webapi\bin\debug\net5.0\swashbuckle.aspnetcore.swaggergen.dll
+++Swashbuckle.AspNetCore.SwaggerUI.dll
+i:{572e8f75-97e5-4a59-91ef-2980a488a3fb}:c:\users\danie\onedrive\documents\háskóli\vefþjónusta\small assignment iii - datafication\template (2)\template\datafication.webapi\bin\debug\net5.0\swashbuckle.aspnetcore.swaggerui.dll
+++System.Diagnostics.DiagnosticSource.dll
+i:{572e8f75-97e5-4a59-91ef-2980a488a3fb}:c:\users\danie\onedrive\documents\háskóli\vefþjónusta\small assignment iii - datafication\template (2)\template\datafication.webapi\bin\debug\net5.0\system.diagnostics.diagnosticsource.dll
+++staticwebassets
+i:{572e8f75-97e5-4a59-91ef-2980a488a3fb}:c:\users\danie\onedrive\documents\háskóli\vefþjónusta\small assignment iii - datafication\template (2)\template\datafication.webapi\obj\debug\net5.0\staticwebassets\
+++.NETCoreApp,Version=v5.0.AssemblyAttributes.cs
+i:{572e8f75-97e5-4a59-91ef-2980a488a3fb}:c:\users\danie\onedrive\documents\háskóli\vefþjónusta\small assignment iii - datafication\template (2)\template\datafication.webapi\obj\debug\net5.0\.netcoreapp,version=v5.0.assemblyattributes.cs
+i:{572e8f75-97e5-4a59-91ef-2980a488a3fb}:c:\users\danie\onedrive\documents\háskóli\vefþjónusta\small assignment iii - datafication\template (2)\template\datafication.webapi\obj\release\net5.0\.netcoreapp,version=v5.0.assemblyattributes.cs
+++apphost.exe
+i:{572e8f75-97e5-4a59-91ef-2980a488a3fb}:c:\users\danie\onedrive\documents\háskóli\vefþjónusta\small assignment iii - datafication\template (2)\template\datafication.webapi\obj\debug\net5.0\apphost.exe
+++Datafication.WebAPI.AssemblyInfo.cs
+i:{572e8f75-97e5-4a59-91ef-2980a488a3fb}:c:\users\danie\onedrive\documents\háskóli\vefþjónusta\small assignment iii - datafication\template (2)\template\datafication.webapi\obj\debug\net5.0\datafication.webapi.assemblyinfo.cs
+i:{572e8f75-97e5-4a59-91ef-2980a488a3fb}:c:\users\danie\onedrive\documents\háskóli\vefþjónusta\small assignment iii - datafication\template (2)\template\datafication.webapi\obj\release\net5.0\datafication.webapi.assemblyinfo.cs
+++Datafication.WebAPI.AssemblyInfoInputs.cache
+i:{572e8f75-97e5-4a59-91ef-2980a488a3fb}:c:\users\danie\onedrive\documents\háskóli\vefþjónusta\small assignment iii - datafication\template (2)\template\datafication.webapi\obj\debug\net5.0\datafication.webapi.assemblyinfoinputs.cache
+i:{572e8f75-97e5-4a59-91ef-2980a488a3fb}:c:\users\danie\onedrive\documents\háskóli\vefþjónusta\small assignment iii - datafication\template (2)\template\datafication.webapi\obj\release\net5.0\datafication.webapi.assemblyinfoinputs.cache
+++Datafication.WebAPI.assets.cache
+i:{572e8f75-97e5-4a59-91ef-2980a488a3fb}:c:\users\danie\onedrive\documents\háskóli\vefþjónusta\small assignment iii - datafication\template (2)\template\datafication.webapi\obj\debug\net5.0\datafication.webapi.assets.cache
+i:{572e8f75-97e5-4a59-91ef-2980a488a3fb}:c:\users\danie\onedrive\documents\háskóli\vefþjónusta\small assignment iii - datafication\template (2)\template\datafication.webapi\obj\release\net5.0\datafication.webapi.assets.cache
+++Datafication.WebAPI.csproj.AssemblyReference.cache
+i:{572e8f75-97e5-4a59-91ef-2980a488a3fb}:c:\users\danie\onedrive\documents\háskóli\vefþjónusta\small assignment iii - datafication\template (2)\template\datafication.webapi\obj\debug\net5.0\datafication.webapi.csproj.assemblyreference.cache
+++Datafication.WebAPI.csproj.CopyComplete
+i:{572e8f75-97e5-4a59-91ef-2980a488a3fb}:c:\users\danie\onedrive\documents\háskóli\vefþjónusta\small assignment iii - datafication\template (2)\template\datafication.webapi\obj\debug\net5.0\datafication.webapi.csproj.copycomplete
+++Datafication.WebAPI.csproj.CoreCompileInputs.cache
+i:{572e8f75-97e5-4a59-91ef-2980a488a3fb}:c:\users\danie\onedrive\documents\háskóli\vefþjónusta\small assignment iii - datafication\template (2)\template\datafication.webapi\obj\debug\net5.0\datafication.webapi.csproj.corecompileinputs.cache
+++Datafication.WebAPI.csproj.FileListAbsolute.txt
+i:{572e8f75-97e5-4a59-91ef-2980a488a3fb}:c:\users\danie\onedrive\documents\háskóli\vefþjónusta\small assignment iii - datafication\template (2)\template\datafication.webapi\obj\debug\net5.0\datafication.webapi.csproj.filelistabsolute.txt
+++Datafication.WebAPI.GeneratedMSBuildEditorConfig.editorconfig
+i:{572e8f75-97e5-4a59-91ef-2980a488a3fb}:c:\users\danie\onedrive\documents\háskóli\vefþjónusta\small assignment iii - datafication\template (2)\template\datafication.webapi\obj\debug\net5.0\datafication.webapi.generatedmsbuildeditorconfig.editorconfig
+i:{572e8f75-97e5-4a59-91ef-2980a488a3fb}:c:\users\danie\onedrive\documents\háskóli\vefþjónusta\small assignment iii - datafication\template (2)\template\datafication.webapi\obj\release\net5.0\datafication.webapi.generatedmsbuildeditorconfig.editorconfig
+++Datafication.WebAPI.genruntimeconfig.cache
+i:{572e8f75-97e5-4a59-91ef-2980a488a3fb}:c:\users\danie\onedrive\documents\háskóli\vefþjónusta\small assignment iii - datafication\template (2)\template\datafication.webapi\obj\debug\net5.0\datafication.webapi.genruntimeconfig.cache
+++Datafication.WebAPI.MvcApplicationPartsAssemblyInfo.cache
+i:{572e8f75-97e5-4a59-91ef-2980a488a3fb}:c:\users\danie\onedrive\documents\háskóli\vefþjónusta\small assignment iii - datafication\template (2)\template\datafication.webapi\obj\debug\net5.0\datafication.webapi.mvcapplicationpartsassemblyinfo.cache
+++Datafication.WebAPI.MvcApplicationPartsAssemblyInfo.cs
+i:{572e8f75-97e5-4a59-91ef-2980a488a3fb}:c:\users\danie\onedrive\documents\háskóli\vefþjónusta\small assignment iii - datafication\template (2)\template\datafication.webapi\obj\debug\net5.0\datafication.webapi.mvcapplicationpartsassemblyinfo.cs
+++Datafication.WebAPI.RazorTargetAssemblyInfo.cache
+i:{572e8f75-97e5-4a59-91ef-2980a488a3fb}:c:\users\danie\onedrive\documents\háskóli\vefþjónusta\small assignment iii - datafication\template (2)\template\datafication.webapi\obj\debug\net5.0\datafication.webapi.razortargetassemblyinfo.cache
+++Microsoft.NuGet.ImportBefore.props
+i:{572e8f75-97e5-4a59-91ef-2980a488a3fb}:c:\program files\microsoft visual studio\2022\preview\msbuild\current\imports\microsoft.common.props\importbefore\microsoft.nuget.importbefore.props
+++NuGet.props
+i:{572e8f75-97e5-4a59-91ef-2980a488a3fb}:c:\program files\microsoft visual studio\2022\preview\common7\ide\commonextensions\microsoft\nuget\nuget.props
+++Microsoft.NET.Sdk.DefaultItems.props
+i:{572e8f75-97e5-4a59-91ef-2980a488a3fb}:c:\program files\dotnet\sdk\6.0.100-rc.1.21463.6\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.defaultitems.props
+++Microsoft.NET.Sdk.ImportWorkloads.props
+i:{572e8f75-97e5-4a59-91ef-2980a488a3fb}:c:\program files\dotnet\sdk\6.0.100-rc.1.21463.6\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.importworkloads.props
+++Microsoft.NET.SupportedTargetFrameworks.props
+i:{572e8f75-97e5-4a59-91ef-2980a488a3fb}:c:\program files\dotnet\sdk\6.0.100-rc.1.21463.6\sdks\microsoft.net.sdk\targets\microsoft.net.supportedtargetframeworks.props
+++Microsoft.NET.SupportedPlatforms.props
+i:{572e8f75-97e5-4a59-91ef-2980a488a3fb}:c:\program files\dotnet\sdk\6.0.100-rc.1.21463.6\sdks\microsoft.net.sdk\targets\microsoft.net.supportedplatforms.props
+++Microsoft.NET.WindowsSdkSupportedTargetPlatforms.props
+i:{572e8f75-97e5-4a59-91ef-2980a488a3fb}:c:\program files\dotnet\sdk\6.0.100-rc.1.21463.6\sdks\microsoft.net.sdk\targets\microsoft.net.windowssdksupportedtargetplatforms.props
+++Microsoft.NET.Sdk.CSharp.props
+i:{572e8f75-97e5-4a59-91ef-2980a488a3fb}:c:\program files\dotnet\sdk\6.0.100-rc.1.21463.6\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.csharp.props
+++Microsoft.NET.ILLink.props
+i:{572e8f75-97e5-4a59-91ef-2980a488a3fb}:c:\program files\dotnet\sdk\6.0.100-rc.1.21463.6\sdks\microsoft.net.sdk\targets\microsoft.net.illink.props
+++Microsoft.NET.Compatibility.props
+i:{572e8f75-97e5-4a59-91ef-2980a488a3fb}:c:\program files\dotnet\sdk\6.0.100-rc.1.21463.6\sdks\microsoft.net.sdk\targets\microsoft.net.compatibility.props
+++Microsoft.NET.PackTool.props
+i:{572e8f75-97e5-4a59-91ef-2980a488a3fb}:c:\program files\dotnet\sdk\6.0.100-rc.1.21463.6\sdks\microsoft.net.sdk\targets\microsoft.net.packtool.props
+++Microsoft.NET.PackProjectTool.props
+i:{572e8f75-97e5-4a59-91ef-2980a488a3fb}:c:\program files\dotnet\sdk\6.0.100-rc.1.21463.6\sdks\microsoft.net.sdk\targets\microsoft.net.packprojecttool.props
+++Microsoft.NET.Sdk.WindowsDesktop.props
+i:{572e8f75-97e5-4a59-91ef-2980a488a3fb}:c:\program files\dotnet\sdk\6.0.100-rc.1.21463.6\sdks\microsoft.net.sdk.windowsdesktop\targets\microsoft.net.sdk.windowsdesktop.props
+++Microsoft.NET.Windows.props
+i:{572e8f75-97e5-4a59-91ef-2980a488a3fb}:c:\program files\dotnet\sdk\6.0.100-rc.1.21463.6\sdks\microsoft.net.sdk\targets\microsoft.net.windows.props
+++Sdk.Razor.StaticAssets.ProjectSystem.props
+i:{572e8f75-97e5-4a59-91ef-2980a488a3fb}:c:\program files\dotnet\sdk\6.0.100-rc.1.21463.6\sdks\microsoft.net.sdk.razor\sdk\sdk.razor.staticassets.projectsystem.props
+++Microsoft.TypeScript.Default.props
+i:{572e8f75-97e5-4a59-91ef-2980a488a3fb}:c:\program files\microsoft visual studio\2022\preview\msbuild\microsoft\visualstudio\v17.0\typescript\microsoft.typescript.default.props
+++Microsoft.NET.Sdk.Web.DefaultItems.props
+i:{572e8f75-97e5-4a59-91ef-2980a488a3fb}:c:\program files\dotnet\sdk\6.0.100-rc.1.21463.6\sdks\microsoft.net.sdk.web.projectsystem\targets\microsoft.net.sdk.web.defaultitems.props
+++Microsoft.NET.DefaultAssemblyInfo.targets
+i:{572e8f75-97e5-4a59-91ef-2980a488a3fb}:c:\program files\dotnet\sdk\6.0.100-rc.1.21463.6\sdks\microsoft.net.sdk\targets\microsoft.net.defaultassemblyinfo.targets
+++Microsoft.NET.DefaultOutputPaths.targets
+i:{572e8f75-97e5-4a59-91ef-2980a488a3fb}:c:\program files\dotnet\sdk\6.0.100-rc.1.21463.6\sdks\microsoft.net.sdk\targets\microsoft.net.defaultoutputpaths.targets
+++Microsoft.NET.Sdk.ImportPublishProfile.targets
+i:{572e8f75-97e5-4a59-91ef-2980a488a3fb}:c:\program files\dotnet\sdk\6.0.100-rc.1.21463.6\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.importpublishprofile.targets
+++Microsoft.NET.TargetFrameworkInference.targets
+i:{572e8f75-97e5-4a59-91ef-2980a488a3fb}:c:\program files\dotnet\sdk\6.0.100-rc.1.21463.6\sdks\microsoft.net.sdk\targets\microsoft.net.targetframeworkinference.targets
+++Microsoft.NET.Sdk.Razor.BeforeCommon.targets
+i:{572e8f75-97e5-4a59-91ef-2980a488a3fb}:c:\program files\dotnet\sdk\6.0.100-rc.1.21463.6\sdks\microsoft.net.sdk.razor\targets\microsoft.net.sdk.razor.beforecommon.targets
+++Microsoft.NET.Sdk.ImportWorkloads.targets
+i:{572e8f75-97e5-4a59-91ef-2980a488a3fb}:c:\program files\dotnet\sdk\6.0.100-rc.1.21463.6\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.importworkloads.targets
+++Microsoft.NET.RuntimeIdentifierInference.targets
+i:{572e8f75-97e5-4a59-91ef-2980a488a3fb}:c:\program files\dotnet\sdk\6.0.100-rc.1.21463.6\sdks\microsoft.net.sdk\targets\microsoft.net.runtimeidentifierinference.targets
+++Microsoft.NET.EolTargetFrameworks.targets
+i:{572e8f75-97e5-4a59-91ef-2980a488a3fb}:c:\program files\dotnet\sdk\6.0.100-rc.1.21463.6\sdks\microsoft.net.sdk\targets\microsoft.net.eoltargetframeworks.targets
+++Microsoft.NET.NuGetOfflineCache.targets
+i:{572e8f75-97e5-4a59-91ef-2980a488a3fb}:c:\program files\dotnet\sdk\6.0.100-rc.1.21463.6\sdks\microsoft.net.sdk\targets\microsoft.net.nugetofflinecache.targets
+++Microsoft.Managed.Before.targets
+i:{572e8f75-97e5-4a59-91ef-2980a488a3fb}:c:\program files\microsoft visual studio\2022\preview\msbuild\current\bin\amd64\microsoft.managed.before.targets
+++Microsoft.CSharp.CurrentVersion.targets
+i:{572e8f75-97e5-4a59-91ef-2980a488a3fb}:c:\program files\microsoft visual studio\2022\preview\msbuild\current\bin\amd64\microsoft.csharp.currentversion.targets
+++Microsoft.Managed.After.targets
+i:{572e8f75-97e5-4a59-91ef-2980a488a3fb}:c:\program files\microsoft visual studio\2022\preview\msbuild\current\bin\amd64\microsoft.managed.after.targets
+++Microsoft.NET.Sdk.Common.targets
+i:{572e8f75-97e5-4a59-91ef-2980a488a3fb}:c:\program files\dotnet\sdk\6.0.100-rc.1.21463.6\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.common.targets
+++Microsoft.PackageDependencyResolution.targets
+i:{572e8f75-97e5-4a59-91ef-2980a488a3fb}:c:\program files\dotnet\sdk\6.0.100-rc.1.21463.6\sdks\microsoft.net.sdk\targets\microsoft.packagedependencyresolution.targets
+++Microsoft.NET.Sdk.DefaultItems.targets
+i:{572e8f75-97e5-4a59-91ef-2980a488a3fb}:c:\program files\dotnet\sdk\6.0.100-rc.1.21463.6\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.defaultitems.targets
+++Microsoft.NET.Sdk.FrameworkReferenceResolution.targets
+i:{572e8f75-97e5-4a59-91ef-2980a488a3fb}:c:\program files\dotnet\sdk\6.0.100-rc.1.21463.6\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.frameworkreferenceresolution.targets
+++Microsoft.NET.Sdk.Shared.targets
+i:{572e8f75-97e5-4a59-91ef-2980a488a3fb}:c:\program files\dotnet\sdk\6.0.100-rc.1.21463.6\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.shared.targets
+++Microsoft.NET.DisableStandardFrameworkResolution.targets
+i:{572e8f75-97e5-4a59-91ef-2980a488a3fb}:c:\program files\dotnet\sdk\6.0.100-rc.1.21463.6\sdks\microsoft.net.sdk\targets\microsoft.net.disablestandardframeworkresolution.targets
+++Microsoft.NET.DesignerSupport.targets
+i:{572e8f75-97e5-4a59-91ef-2980a488a3fb}:c:\program files\dotnet\sdk\6.0.100-rc.1.21463.6\sdks\microsoft.net.sdk\targets\microsoft.net.designersupport.targets
+++Microsoft.NET.GenerateAssemblyInfo.targets
+i:{572e8f75-97e5-4a59-91ef-2980a488a3fb}:c:\program files\dotnet\sdk\6.0.100-rc.1.21463.6\sdks\microsoft.net.sdk\targets\microsoft.net.generateassemblyinfo.targets
+++Microsoft.NET.GenerateGlobalUsings.targets
+i:{572e8f75-97e5-4a59-91ef-2980a488a3fb}:c:\program files\dotnet\sdk\6.0.100-rc.1.21463.6\sdks\microsoft.net.sdk\targets\microsoft.net.generateglobalusings.targets
+++Microsoft.NET.GenerateSupportedRuntime.targets
+i:{572e8f75-97e5-4a59-91ef-2980a488a3fb}:c:\program files\dotnet\sdk\6.0.100-rc.1.21463.6\sdks\microsoft.net.sdk\targets\microsoft.net.generatesupportedruntime.targets
+++Microsoft.NET.ComposeStore.targets
+i:{572e8f75-97e5-4a59-91ef-2980a488a3fb}:c:\program files\dotnet\sdk\6.0.100-rc.1.21463.6\sdks\microsoft.net.sdk\targets\microsoft.net.composestore.targets
+++Microsoft.NET.CrossGen.targets
+i:{572e8f75-97e5-4a59-91ef-2980a488a3fb}:c:\program files\dotnet\sdk\6.0.100-rc.1.21463.6\sdks\microsoft.net.sdk\targets\microsoft.net.crossgen.targets
+++Microsoft.NET.ObsoleteReferences.targets
+i:{572e8f75-97e5-4a59-91ef-2980a488a3fb}:c:\program files\dotnet\sdk\6.0.100-rc.1.21463.6\sdks\microsoft.net.sdk\targets\microsoft.net.obsoletereferences.targets
+++Microsoft.NET.Publish.targets
+i:{572e8f75-97e5-4a59-91ef-2980a488a3fb}:c:\program files\dotnet\sdk\6.0.100-rc.1.21463.6\sdks\microsoft.net.sdk\targets\microsoft.net.publish.targets
+++Microsoft.NET.PackTool.targets
+i:{572e8f75-97e5-4a59-91ef-2980a488a3fb}:c:\program files\dotnet\sdk\6.0.100-rc.1.21463.6\sdks\microsoft.net.sdk\targets\microsoft.net.packtool.targets
+++Microsoft.NET.PackProjectTool.targets
+i:{572e8f75-97e5-4a59-91ef-2980a488a3fb}:c:\program files\dotnet\sdk\6.0.100-rc.1.21463.6\sdks\microsoft.net.sdk\targets\microsoft.net.packprojecttool.targets
+++Microsoft.NET.PreserveCompilationContext.targets
+i:{572e8f75-97e5-4a59-91ef-2980a488a3fb}:c:\program files\dotnet\sdk\6.0.100-rc.1.21463.6\sdks\microsoft.net.sdk\targets\microsoft.net.preservecompilationcontext.targets
+++Microsoft.NET.ConflictResolution.targets
+i:{572e8f75-97e5-4a59-91ef-2980a488a3fb}:c:\program files\dotnet\sdk\6.0.100-rc.1.21463.6\sdks\microsoft.net.sdk\targets\microsoft.net.conflictresolution.targets
+++Microsoft.NET.Sdk.CSharp.targets
+i:{572e8f75-97e5-4a59-91ef-2980a488a3fb}:c:\program files\dotnet\sdk\6.0.100-rc.1.21463.6\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.csharp.targets
+++Microsoft.NET.ILLink.targets
+i:{572e8f75-97e5-4a59-91ef-2980a488a3fb}:c:\program files\dotnet\sdk\6.0.100-rc.1.21463.6\sdks\microsoft.net.sdk\targets\microsoft.net.illink.targets
+++Microsoft.NET.Sdk.Analyzers.targets
+i:{572e8f75-97e5-4a59-91ef-2980a488a3fb}:c:\program files\dotnet\sdk\6.0.100-rc.1.21463.6\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.analyzers.targets
+++Microsoft.NET.Compatibility.Common.targets
+i:{572e8f75-97e5-4a59-91ef-2980a488a3fb}:c:\program files\dotnet\sdk\6.0.100-rc.1.21463.6\sdks\microsoft.net.sdk\targets\microsoft.net.compatibility.common.targets
+++Microsoft.NET.Sdk.Razor.Compilation.targets
+i:{572e8f75-97e5-4a59-91ef-2980a488a3fb}:c:\program files\dotnet\sdk\6.0.100-rc.1.21463.6\sdks\microsoft.net.sdk.razor\targets\microsoft.net.sdk.razor.compilation.targets
+++Microsoft.NET.Sdk.Razor.Configuration.targets
+i:{572e8f75-97e5-4a59-91ef-2980a488a3fb}:c:\program files\dotnet\sdk\6.0.100-rc.1.21463.6\sdks\microsoft.net.sdk.razor\targets\microsoft.net.sdk.razor.configuration.targets
+++Microsoft.NET.Sdk.Razor.CodeGeneration.targets
+i:{572e8f75-97e5-4a59-91ef-2980a488a3fb}:c:\program files\dotnet\sdk\6.0.100-rc.1.21463.6\sdks\microsoft.net.sdk.razor\targets\microsoft.net.sdk.razor.codegeneration.targets
+++Microsoft.NET.Sdk.Razor.Component.targets
+i:{572e8f75-97e5-4a59-91ef-2980a488a3fb}:c:\program files\dotnet\sdk\6.0.100-rc.1.21463.6\sdks\microsoft.net.sdk.razor\targets\microsoft.net.sdk.razor.component.targets
+++Microsoft.NET.Sdk.Razor.StaticWebAssets.5_0.targets
+i:{572e8f75-97e5-4a59-91ef-2980a488a3fb}:c:\program files\dotnet\sdk\6.0.100-rc.1.21463.6\sdks\microsoft.net.sdk.razor\targets\microsoft.net.sdk.razor.staticwebassets.5_0.targets
+++Microsoft.NET.Sdk.Razor.ScopedCss.5_0.targets
+i:{572e8f75-97e5-4a59-91ef-2980a488a3fb}:c:\program files\dotnet\sdk\6.0.100-rc.1.21463.6\sdks\microsoft.net.sdk.razor\targets\microsoft.net.sdk.razor.scopedcss.5_0.targets
+++Microsoft.NET.Sdk.Razor.GenerateAssemblyInfo.targets
+i:{572e8f75-97e5-4a59-91ef-2980a488a3fb}:c:\program files\dotnet\sdk\6.0.100-rc.1.21463.6\sdks\microsoft.net.sdk.razor\targets\microsoft.net.sdk.razor.generateassemblyinfo.targets
+++Microsoft.NET.Sdk.Razor.MvcApplicationPartsDiscovery.targets
+i:{572e8f75-97e5-4a59-91ef-2980a488a3fb}:c:\program files\dotnet\sdk\6.0.100-rc.1.21463.6\sdks\microsoft.net.sdk.razor\targets\microsoft.net.sdk.razor.mvcapplicationpartsdiscovery.targets
+++Microsoft.NET.Sdk.Razor.DesignTime.targets
+i:{572e8f75-97e5-4a59-91ef-2980a488a3fb}:c:\program files\microsoft visual studio\2022\preview\msbuild\microsoft\visualstudio\razor\microsoft.net.sdk.razor.designtime.targets
+++Microsoft.TypeScript.targets
+i:{572e8f75-97e5-4a59-91ef-2980a488a3fb}:c:\program files\microsoft visual studio\2022\preview\msbuild\microsoft\visualstudio\v17.0\typescript\microsoft.typescript.targets
+i:{572e8f75-97e5-4a59-91ef-2980a488a3fb}:c:\program files (x86)\microsoft sdks\typescript\4.3\build\microsoft.typescript.targets
+++Microsoft.TypeScript.DotNetCore.targets
+i:{572e8f75-97e5-4a59-91ef-2980a488a3fb}:c:\program files\microsoft visual studio\2022\preview\msbuild\microsoft\visualstudio\v17.0\typescript\microsoft.typescript.dotnetcore.targets
+++Microsoft.Web.Designtime.targets
+i:{572e8f75-97e5-4a59-91ef-2980a488a3fb}:c:\program files\microsoft visual studio\2022\preview\msbuild\microsoft\visualstudio\managed.web\microsoft.web.designtime.targets
+++Default.pubxml
+i:{572e8f75-97e5-4a59-91ef-2980a488a3fb}:c:\program files\dotnet\sdk\6.0.100-rc.1.21463.6\sdks\microsoft.net.sdk.publish\targets\publishprofiles\default.pubxml
+++Microsoft.NET.Sdk.Publish.ComputeFiles.targets
+i:{572e8f75-97e5-4a59-91ef-2980a488a3fb}:c:\program files\dotnet\sdk\6.0.100-rc.1.21463.6\sdks\microsoft.net.sdk.publish\targets\computetargets\microsoft.net.sdk.publish.computefiles.targets
+++Microsoft.NET.Sdk.Publish.FilterFiles.targets
+i:{572e8f75-97e5-4a59-91ef-2980a488a3fb}:c:\program files\dotnet\sdk\6.0.100-rc.1.21463.6\sdks\microsoft.net.sdk.publish\targets\copytargets\microsoft.net.sdk.publish.filterfiles.targets
+++Microsoft.NET.Sdk.Publish.CopyFiles.targets
+i:{572e8f75-97e5-4a59-91ef-2980a488a3fb}:c:\program files\dotnet\sdk\6.0.100-rc.1.21463.6\sdks\microsoft.net.sdk.publish\targets\copytargets\microsoft.net.sdk.publish.copyfiles.targets
+++Microsoft.NET.Sdk.Publish.TransformFiles.targets
+i:{572e8f75-97e5-4a59-91ef-2980a488a3fb}:c:\program files\dotnet\sdk\6.0.100-rc.1.21463.6\sdks\microsoft.net.sdk.publish\targets\transformtargets\microsoft.net.sdk.publish.transformfiles.targets
+++Microsoft.NET.Sdk.Publish.FileSystem.targets
+i:{572e8f75-97e5-4a59-91ef-2980a488a3fb}:c:\program files\dotnet\sdk\6.0.100-rc.1.21463.6\sdks\microsoft.net.sdk.publish\targets\publishtargets\microsoft.net.sdk.publish.filesystem.targets
+++Microsoft.NET.Sdk.DotNetCLITool.targets
+i:{572e8f75-97e5-4a59-91ef-2980a488a3fb}:c:\program files\dotnet\sdk\6.0.100-rc.1.21463.6\sdks\microsoft.net.sdk.publish\targets\dotnetclitooltargets\microsoft.net.sdk.dotnetclitool.targets
+++alpine-x64
+i:{572e8f75-97e5-4a59-91ef-2980a488a3fb}:c:\users\danie\onedrive\documents\háskóli\vefþjónusta\small assignment iii - datafication\template (2)\template\datafication.webapi\bin\debug\net5.0\runtimes\alpine-x64\
+++linux-arm
+i:{572e8f75-97e5-4a59-91ef-2980a488a3fb}:c:\users\danie\onedrive\documents\háskóli\vefþjónusta\small assignment iii - datafication\template (2)\template\datafication.webapi\bin\debug\net5.0\runtimes\linux-arm\
+++linux-arm64
+i:{572e8f75-97e5-4a59-91ef-2980a488a3fb}:c:\users\danie\onedrive\documents\háskóli\vefþjónusta\small assignment iii - datafication\template (2)\template\datafication.webapi\bin\debug\net5.0\runtimes\linux-arm64\
+++linux-armel
+i:{572e8f75-97e5-4a59-91ef-2980a488a3fb}:c:\users\danie\onedrive\documents\háskóli\vefþjónusta\small assignment iii - datafication\template (2)\template\datafication.webapi\bin\debug\net5.0\runtimes\linux-armel\
+++linux-mips64
+i:{572e8f75-97e5-4a59-91ef-2980a488a3fb}:c:\users\danie\onedrive\documents\háskóli\vefþjónusta\small assignment iii - datafication\template (2)\template\datafication.webapi\bin\debug\net5.0\runtimes\linux-mips64\
+++linux-musl-x64
+i:{572e8f75-97e5-4a59-91ef-2980a488a3fb}:c:\users\danie\onedrive\documents\háskóli\vefþjónusta\small assignment iii - datafication\template (2)\template\datafication.webapi\bin\debug\net5.0\runtimes\linux-musl-x64\
+++linux-x64
+i:{572e8f75-97e5-4a59-91ef-2980a488a3fb}:c:\users\danie\onedrive\documents\háskóli\vefþjónusta\small assignment iii - datafication\template (2)\template\datafication.webapi\bin\debug\net5.0\runtimes\linux-x64\
+++linux-x86
+i:{572e8f75-97e5-4a59-91ef-2980a488a3fb}:c:\users\danie\onedrive\documents\háskóli\vefþjónusta\small assignment iii - datafication\template (2)\template\datafication.webapi\bin\debug\net5.0\runtimes\linux-x86\
+++osx-x64
+i:{572e8f75-97e5-4a59-91ef-2980a488a3fb}:c:\users\danie\onedrive\documents\háskóli\vefþjónusta\small assignment iii - datafication\template (2)\template\datafication.webapi\bin\debug\net5.0\runtimes\osx-x64\
+++win-arm
+i:{572e8f75-97e5-4a59-91ef-2980a488a3fb}:c:\users\danie\onedrive\documents\háskóli\vefþjónusta\small assignment iii - datafication\template (2)\template\datafication.webapi\bin\debug\net5.0\runtimes\win-arm\
+++win-arm64
+i:{572e8f75-97e5-4a59-91ef-2980a488a3fb}:c:\users\danie\onedrive\documents\háskóli\vefþjónusta\small assignment iii - datafication\template (2)\template\datafication.webapi\bin\debug\net5.0\runtimes\win-arm64\
+++win-x64
+i:{572e8f75-97e5-4a59-91ef-2980a488a3fb}:c:\users\danie\onedrive\documents\háskóli\vefþjónusta\small assignment iii - datafication\template (2)\template\datafication.webapi\bin\debug\net5.0\runtimes\win-x64\
+++win-x86
+i:{572e8f75-97e5-4a59-91ef-2980a488a3fb}:c:\users\danie\onedrive\documents\háskóli\vefþjónusta\small assignment iii - datafication\template (2)\template\datafication.webapi\bin\debug\net5.0\runtimes\win-x86\
+++Datafication.WebAPI.StaticWebAssets.Manifest.cache
+i:{572e8f75-97e5-4a59-91ef-2980a488a3fb}:c:\users\danie\onedrive\documents\háskóli\vefþjónusta\small assignment iii - datafication\template (2)\template\datafication.webapi\obj\debug\net5.0\staticwebassets\datafication.webapi.staticwebassets.manifest.cache
+++Microsoft.Extensions.ApiDescription.Server.props
+i:{572e8f75-97e5-4a59-91ef-2980a488a3fb}:c:\users\danie\.nuget\packages\microsoft.extensions.apidescription.server\3.0.0\build\microsoft.extensions.apidescription.server.props
+++Swashbuckle.AspNetCore.props
+i:{572e8f75-97e5-4a59-91ef-2980a488a3fb}:c:\users\danie\.nuget\packages\swashbuckle.aspnetcore\5.6.3\build\swashbuckle.aspnetcore.props
+++Microsoft.EntityFrameworkCore.Design.props
+i:{572e8f75-97e5-4a59-91ef-2980a488a3fb}:c:\users\danie\.nuget\packages\microsoft.entityframeworkcore.design\5.0.10\build\netcoreapp3.0\microsoft.entityframeworkcore.design.props
+++Microsoft.NuGet.props
+i:{572e8f75-97e5-4a59-91ef-2980a488a3fb}:c:\program files\microsoft visual studio\2022\preview\msbuild\microsoft\nuget\17.0\microsoft.nuget.props
+++Microsoft.NETCoreSdk.BundledVersions.props
+i:{572e8f75-97e5-4a59-91ef-2980a488a3fb}:c:\program files\dotnet\sdk\6.0.100-rc.1.21463.6\microsoft.netcoresdk.bundledversions.props
+++Microsoft.NET.Sdk.WindowsDesktop.WindowsForms.props
+i:{572e8f75-97e5-4a59-91ef-2980a488a3fb}:c:\program files\dotnet\sdk\6.0.100-rc.1.21463.6\sdks\microsoft.net.sdk.windowsdesktop\targets\microsoft.net.sdk.windowsdesktop.windowsforms.props
+++Microsoft.NET.Sdk.WindowsDesktop.WPF.props
+i:{572e8f75-97e5-4a59-91ef-2980a488a3fb}:c:\program files\dotnet\sdk\6.0.100-rc.1.21463.6\sdks\microsoft.net.sdk.windowsdesktop\targets\microsoft.net.sdk.windowsdesktop.wpf.props
+++WorkloadManifest.targets
+i:{572e8f75-97e5-4a59-91ef-2980a488a3fb}:c:\program files\dotnet\sdk-manifests\6.0.100\microsoft.net.sdk.android\workloadmanifest.targets
+i:{572e8f75-97e5-4a59-91ef-2980a488a3fb}:c:\program files\dotnet\sdk-manifests\6.0.100\microsoft.net.sdk.ios\workloadmanifest.targets
+i:{572e8f75-97e5-4a59-91ef-2980a488a3fb}:c:\program files\dotnet\sdk-manifests\6.0.100\microsoft.net.sdk.maccatalyst\workloadmanifest.targets
+i:{572e8f75-97e5-4a59-91ef-2980a488a3fb}:c:\program files\dotnet\sdk-manifests\6.0.100\microsoft.net.sdk.maui\workloadmanifest.targets
+i:{572e8f75-97e5-4a59-91ef-2980a488a3fb}:c:\program files\dotnet\sdk-manifests\6.0.100\microsoft.net.workload.emscripten\workloadmanifest.targets
+i:{572e8f75-97e5-4a59-91ef-2980a488a3fb}:c:\program files\dotnet\sdk-manifests\6.0.100\microsoft.net.workload.mono.toolchain\workloadmanifest.targets
+++Microsoft.CSharp.Core.targets
+i:{572e8f75-97e5-4a59-91ef-2980a488a3fb}:c:\program files\microsoft visual studio\2022\preview\msbuild\current\bin\roslyn\microsoft.csharp.core.targets
+++Microsoft.CSharp.DesignTime.targets
+i:{572e8f75-97e5-4a59-91ef-2980a488a3fb}:c:\program files\microsoft visual studio\2022\preview\msbuild\microsoft\visualstudio\managed\microsoft.csharp.designtime.targets
+++Microsoft.Common.targets
+i:{572e8f75-97e5-4a59-91ef-2980a488a3fb}:c:\program files\microsoft visual studio\2022\preview\msbuild\current\bin\amd64\microsoft.common.targets
+++Microsoft.ServiceModel.targets
+i:{572e8f75-97e5-4a59-91ef-2980a488a3fb}:c:\program files\microsoft visual studio\2022\preview\msbuild\current\bin\amd64\microsoft.servicemodel.targets
+i:{572e8f75-97e5-4a59-91ef-2980a488a3fb}:c:\windows\microsoft.net\framework\v4.0.30319\microsoft.servicemodel.targets
+++Microsoft.NET.Sdk.DefaultItems.Shared.targets
+i:{572e8f75-97e5-4a59-91ef-2980a488a3fb}:c:\program files\dotnet\sdk\6.0.100-rc.1.21463.6\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.defaultitems.shared.targets
+++Microsoft.NETCoreSdk.BundledCliTools.props
+i:{572e8f75-97e5-4a59-91ef-2980a488a3fb}:c:\program files\dotnet\sdk\6.0.100-rc.1.21463.6\microsoft.netcoresdk.bundledclitools.props
+++Microsoft.NET.DefaultPackageConflictOverrides.targets
+i:{572e8f75-97e5-4a59-91ef-2980a488a3fb}:c:\program files\dotnet\sdk\6.0.100-rc.1.21463.6\sdks\microsoft.net.sdk\targets\microsoft.net.defaultpackageconflictoverrides.targets
+++Microsoft.CodeAnalysis.NetAnalyzers.props
+i:{572e8f75-97e5-4a59-91ef-2980a488a3fb}:c:\program files\dotnet\sdk\6.0.100-rc.1.21463.6\sdks\microsoft.net.sdk\analyzers\build\microsoft.codeanalysis.netanalyzers.props
+++Microsoft.CodeAnalysis.NetAnalyzers.targets
+i:{572e8f75-97e5-4a59-91ef-2980a488a3fb}:c:\program files\dotnet\sdk\6.0.100-rc.1.21463.6\sdks\microsoft.net.sdk\analyzers\build\microsoft.codeanalysis.netanalyzers.targets
+++04.03.05.00.props
+i:{572e8f75-97e5-4a59-91ef-2980a488a3fb}:c:\program files (x86)\microsoft sdks\typescript\versions\04.03.05.00.props
+++native
+i:{572e8f75-97e5-4a59-91ef-2980a488a3fb}:c:\users\danie\onedrive\documents\háskóli\vefþjónusta\small assignment iii - datafication\template (2)\template\datafication.webapi\bin\debug\net5.0\runtimes\alpine-x64\native\
+i:{572e8f75-97e5-4a59-91ef-2980a488a3fb}:c:\users\danie\onedrive\documents\háskóli\vefþjónusta\small assignment iii - datafication\template (2)\template\datafication.webapi\bin\debug\net5.0\runtimes\linux-arm\native\
+i:{572e8f75-97e5-4a59-91ef-2980a488a3fb}:c:\users\danie\onedrive\documents\háskóli\vefþjónusta\small assignment iii - datafication\template (2)\template\datafication.webapi\bin\debug\net5.0\runtimes\linux-arm64\native\
+i:{572e8f75-97e5-4a59-91ef-2980a488a3fb}:c:\users\danie\onedrive\documents\háskóli\vefþjónusta\small assignment iii - datafication\template (2)\template\datafication.webapi\bin\debug\net5.0\runtimes\linux-armel\native\
+i:{572e8f75-97e5-4a59-91ef-2980a488a3fb}:c:\users\danie\onedrive\documents\háskóli\vefþjónusta\small assignment iii - datafication\template (2)\template\datafication.webapi\bin\debug\net5.0\runtimes\linux-mips64\native\
+i:{572e8f75-97e5-4a59-91ef-2980a488a3fb}:c:\users\danie\onedrive\documents\háskóli\vefþjónusta\small assignment iii - datafication\template (2)\template\datafication.webapi\bin\debug\net5.0\runtimes\linux-musl-x64\native\
+i:{572e8f75-97e5-4a59-91ef-2980a488a3fb}:c:\users\danie\onedrive\documents\háskóli\vefþjónusta\small assignment iii - datafication\template (2)\template\datafication.webapi\bin\debug\net5.0\runtimes\linux-x64\native\
+i:{572e8f75-97e5-4a59-91ef-2980a488a3fb}:c:\users\danie\onedrive\documents\háskóli\vefþjónusta\small assignment iii - datafication\template (2)\template\datafication.webapi\bin\debug\net5.0\runtimes\linux-x86\native\
+i:{572e8f75-97e5-4a59-91ef-2980a488a3fb}:c:\users\danie\onedrive\documents\háskóli\vefþjónusta\small assignment iii - datafication\template (2)\template\datafication.webapi\bin\debug\net5.0\runtimes\osx-x64\native\
+i:{572e8f75-97e5-4a59-91ef-2980a488a3fb}:c:\users\danie\onedrive\documents\háskóli\vefþjónusta\small assignment iii - datafication\template (2)\template\datafication.webapi\bin\debug\net5.0\runtimes\win-arm\native\
+i:{572e8f75-97e5-4a59-91ef-2980a488a3fb}:c:\users\danie\onedrive\documents\háskóli\vefþjónusta\small assignment iii - datafication\template (2)\template\datafication.webapi\bin\debug\net5.0\runtimes\win-arm64\native\
+i:{572e8f75-97e5-4a59-91ef-2980a488a3fb}:c:\users\danie\onedrive\documents\háskóli\vefþjónusta\small assignment iii - datafication\template (2)\template\datafication.webapi\bin\debug\net5.0\runtimes\win-x64\native\
+i:{572e8f75-97e5-4a59-91ef-2980a488a3fb}:c:\users\danie\onedrive\documents\háskóli\vefþjónusta\small assignment iii - datafication\template (2)\template\datafication.webapi\bin\debug\net5.0\runtimes\win-x86\native\
+++Microsoft.NET.ILLink.Tasks.props
+i:{572e8f75-97e5-4a59-91ef-2980a488a3fb}:c:\program files\dotnet\sdk\6.0.100-rc.1.21463.6\sdks\microsoft.net.illink.tasks\build\microsoft.net.illink.tasks.props
+++System.Windows.Forms.Analyzers.props
+i:{572e8f75-97e5-4a59-91ef-2980a488a3fb}:c:\program files\dotnet\sdk\6.0.100-rc.1.21463.6\sdks\microsoft.net.sdk.windowsdesktop\targets\system.windows.forms.analyzers.props
+++Microsoft.Managed.Core.targets
+i:{572e8f75-97e5-4a59-91ef-2980a488a3fb}:c:\program files\microsoft visual studio\2022\preview\msbuild\current\bin\roslyn\microsoft.managed.core.targets
+++Microsoft.Managed.DesignTime.targets
+i:{572e8f75-97e5-4a59-91ef-2980a488a3fb}:c:\program files\microsoft visual studio\2022\preview\msbuild\microsoft\visualstudio\managed\microsoft.managed.designtime.targets
+++Microsoft.Common.CurrentVersion.targets
+i:{572e8f75-97e5-4a59-91ef-2980a488a3fb}:c:\program files\microsoft visual studio\2022\preview\msbuild\current\bin\amd64\microsoft.common.currentversion.targets
+++libe_sqlite3.so
+i:{572e8f75-97e5-4a59-91ef-2980a488a3fb}:c:\users\danie\onedrive\documents\háskóli\vefþjónusta\small assignment iii - datafication\template (2)\template\datafication.webapi\bin\debug\net5.0\runtimes\alpine-x64\native\libe_sqlite3.so
+i:{572e8f75-97e5-4a59-91ef-2980a488a3fb}:c:\users\danie\onedrive\documents\háskóli\vefþjónusta\small assignment iii - datafication\template (2)\template\datafication.webapi\bin\debug\net5.0\runtimes\linux-arm\native\libe_sqlite3.so
+i:{572e8f75-97e5-4a59-91ef-2980a488a3fb}:c:\users\danie\onedrive\documents\háskóli\vefþjónusta\small assignment iii - datafication\template (2)\template\datafication.webapi\bin\debug\net5.0\runtimes\linux-arm64\native\libe_sqlite3.so
+i:{572e8f75-97e5-4a59-91ef-2980a488a3fb}:c:\users\danie\onedrive\documents\háskóli\vefþjónusta\small assignment iii - datafication\template (2)\template\datafication.webapi\bin\debug\net5.0\runtimes\linux-armel\native\libe_sqlite3.so
+i:{572e8f75-97e5-4a59-91ef-2980a488a3fb}:c:\users\danie\onedrive\documents\háskóli\vefþjónusta\small assignment iii - datafication\template (2)\template\datafication.webapi\bin\debug\net5.0\runtimes\linux-mips64\native\libe_sqlite3.so
+i:{572e8f75-97e5-4a59-91ef-2980a488a3fb}:c:\users\danie\onedrive\documents\háskóli\vefþjónusta\small assignment iii - datafication\template (2)\template\datafication.webapi\bin\debug\net5.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+i:{572e8f75-97e5-4a59-91ef-2980a488a3fb}:c:\users\danie\onedrive\documents\háskóli\vefþjónusta\small assignment iii - datafication\template (2)\template\datafication.webapi\bin\debug\net5.0\runtimes\linux-x64\native\libe_sqlite3.so
+i:{572e8f75-97e5-4a59-91ef-2980a488a3fb}:c:\users\danie\onedrive\documents\háskóli\vefþjónusta\small assignment iii - datafication\template (2)\template\datafication.webapi\bin\debug\net5.0\runtimes\linux-x86\native\libe_sqlite3.so
+++libe_sqlite3.dylib
+i:{572e8f75-97e5-4a59-91ef-2980a488a3fb}:c:\users\danie\onedrive\documents\háskóli\vefþjónusta\small assignment iii - datafication\template (2)\template\datafication.webapi\bin\debug\net5.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+++e_sqlite3.dll
+i:{572e8f75-97e5-4a59-91ef-2980a488a3fb}:c:\users\danie\onedrive\documents\háskóli\vefþjónusta\small assignment iii - datafication\template (2)\template\datafication.webapi\bin\debug\net5.0\runtimes\win-arm\native\e_sqlite3.dll
+i:{572e8f75-97e5-4a59-91ef-2980a488a3fb}:c:\users\danie\onedrive\documents\háskóli\vefþjónusta\small assignment iii - datafication\template (2)\template\datafication.webapi\bin\debug\net5.0\runtimes\win-arm64\native\e_sqlite3.dll
+i:{572e8f75-97e5-4a59-91ef-2980a488a3fb}:c:\users\danie\onedrive\documents\háskóli\vefþjónusta\small assignment iii - datafication\template (2)\template\datafication.webapi\bin\debug\net5.0\runtimes\win-x64\native\e_sqlite3.dll
+i:{572e8f75-97e5-4a59-91ef-2980a488a3fb}:c:\users\danie\onedrive\documents\háskóli\vefþjónusta\small assignment iii - datafication\template (2)\template\datafication.webapi\bin\debug\net5.0\runtimes\win-x86\native\e_sqlite3.dll
+++Microsoft.NET.props
+i:{572e8f75-97e5-4a59-91ef-2980a488a3fb}:c:\program files\microsoft visual studio\2022\preview\msbuild\current\bin\amd64\microsoft.net.props
+++Microsoft.CodeAnalysis.targets
+i:{572e8f75-97e5-4a59-91ef-2980a488a3fb}:c:\program files\microsoft visual studio\2022\preview\msbuild\microsoft\visualstudio\v17.0\codeanalysis\microsoft.codeanalysis.targets
+++Microsoft.Xaml.targets
+i:{572e8f75-97e5-4a59-91ef-2980a488a3fb}:c:\program files\microsoft visual studio\2022\preview\msbuild\current\bin\amd64\microsoft.xaml.targets
+i:{572e8f75-97e5-4a59-91ef-2980a488a3fb}:c:\windows\microsoft.net\framework\v4.0.30319\microsoft.xaml.targets
+++Microsoft.WorkflowBuildExtensions.targets
+i:{572e8f75-97e5-4a59-91ef-2980a488a3fb}:c:\program files\microsoft visual studio\2022\preview\msbuild\current\bin\amd64\microsoft.workflowbuildextensions.targets
+i:{572e8f75-97e5-4a59-91ef-2980a488a3fb}:c:\windows\microsoft.net\framework\v4.0.30319\microsoft.workflowbuildextensions.targets
+++Microsoft.TeamTest.targets
+i:{572e8f75-97e5-4a59-91ef-2980a488a3fb}:c:\program files\microsoft visual studio\2022\preview\msbuild\microsoft\visualstudio\v17.0\teamtest\microsoft.teamtest.targets
+++NuGet.targets
+i:{572e8f75-97e5-4a59-91ef-2980a488a3fb}:c:\program files\microsoft visual studio\2022\preview\common7\ide\commonextensions\microsoft\nuget\nuget.targets
+++Microsoft.Docker.ImportAfter.targets
+i:{572e8f75-97e5-4a59-91ef-2980a488a3fb}:c:\program files\microsoft visual studio\2022\preview\msbuild\current\microsoft.common.targets\importafter\microsoft.docker.importafter.targets
+++Microsoft.NET.Build.Extensions.targets
+i:{572e8f75-97e5-4a59-91ef-2980a488a3fb}:c:\program files\microsoft visual studio\2022\preview\msbuild\current\microsoft.common.targets\importafter\microsoft.net.build.extensions.targets
+i:{572e8f75-97e5-4a59-91ef-2980a488a3fb}:c:\program files\microsoft visual studio\2022\preview\msbuild\microsoft\microsoft.net.build.extensions\microsoft.net.build.extensions.targets
+++Microsoft.NuGet.ImportAfter.targets
+i:{572e8f75-97e5-4a59-91ef-2980a488a3fb}:c:\program files\microsoft visual studio\2022\preview\msbuild\current\microsoft.common.targets\importafter\microsoft.nuget.importafter.targets
+++Microsoft.Web.ImportAfter.targets
+i:{572e8f75-97e5-4a59-91ef-2980a488a3fb}:c:\program files\microsoft visual studio\2022\preview\msbuild\current\microsoft.common.targets\importafter\microsoft.web.importafter.targets
+++Microsoft.Extensions.ApiDescription.Server.targets
+i:{572e8f75-97e5-4a59-91ef-2980a488a3fb}:c:\users\danie\.nuget\packages\microsoft.extensions.apidescription.server\3.0.0\build\microsoft.extensions.apidescription.server.targets
+++Microsoft.Docker.targets
+i:{572e8f75-97e5-4a59-91ef-2980a488a3fb}:c:\program files\microsoft visual studio\2022\preview\msbuild\sdks\microsoft.docker.sdk\build\microsoft.docker.targets
+++Microsoft.Web.IISSupport.targets
+i:{572e8f75-97e5-4a59-91ef-2980a488a3fb}:c:\program files\microsoft visual studio\2022\preview\msbuild\microsoft\visualstudio\managed.web\microsoft.web.iissupport.targets
+++Microsoft.EntityFrameworkCore.Sqlite.Design (1.1.6)
+i:{572e8f75-97e5-4a59-91ef-2980a488a3fb}:>886
+++SQL Server Database (ConnectionStrings:DefaultConnection)
+i:{572e8f75-97e5-4a59-91ef-2980a488a3fb}:>838
+++SQL Server Database dependency with connectionId 'ConnectionStrings:DefaultConnection' is detected
+i:{572e8f75-97e5-4a59-91ef-2980a488a3fb}:>839
+++SQL Server Database (ConnectionStrings:MyConn)
+i:{572e8f75-97e5-4a59-91ef-2980a488a3fb}:>836
+++SQL Server Database dependency with connectionId 'ConnectionStrings:MyConn' is detected
+i:{572e8f75-97e5-4a59-91ef-2980a488a3fb}:>837
+++Microsoft.EntityFrameworkCore.Sqlite.Core (5.0.10)
+i:{572e8f75-97e5-4a59-91ef-2980a488a3fb}:>885
+++Datafication.WebAPI.csproj.EntityFrameworkCore.targets
+i:{572e8f75-97e5-4a59-91ef-2980a488a3fb}:c:\users\danie\onedrive\documents\háskóli\vefþjónusta\small assignment iii - datafication\template (2)\template\datafication.webapi\obj\datafication.webapi.csproj.entityframeworkcore.targets
+i:{572e8f75-97e5-4a59-91ef-2980a488a3fb}:c:\users\danie\onedrive\documents\háskóli\vefþjónusta\small assignment iii - datafication\template (2)\template\datafication.webapi\obj\datafication.webapi.csproj.entityframeworkcore.targets
+++Migrations
+i:{572e8f75-97e5-4a59-91ef-2980a488a3fb}:c:\users\danie\onedrive\documents\háskóli\vefþjónusta\small assignment iii - datafication\template (2)\template\datafication.webapi\migrations\
+++20211009203050_DataficationDb.cs
+i:{572e8f75-97e5-4a59-91ef-2980a488a3fb}:c:\users\danie\onedrive\documents\háskóli\vefþjónusta\small assignment iii - datafication\template (2)\template\datafication.webapi\migrations\20211009203050_dataficationdb.cs
+++20211009203050_DataficationDb.Designer.cs
+i:{572e8f75-97e5-4a59-91ef-2980a488a3fb}:c:\users\danie\onedrive\documents\háskóli\vefþjónusta\small assignment iii - datafication\template (2)\template\datafication.webapi\migrations\20211009203050_dataficationdb.designer.cs
+++DataficationDbContextModelSnapshot.cs
+i:{572e8f75-97e5-4a59-91ef-2980a488a3fb}:c:\users\danie\onedrive\documents\háskóli\vefþjónusta\small assignment iii - datafication\template (2)\template\datafication.webapi\migrations\dataficationdbcontextmodelsnapshot.cs
+++sqlite3.exe
+++UsersdanieDesktopIceCreamDb.db
+++20211009215306_DataficationDb2.cs
+i:{572e8f75-97e5-4a59-91ef-2980a488a3fb}:c:\users\danie\onedrive\documents\háskóli\vefþjónusta\small assignment iii - datafication\template (2)\template\datafication.webapi\migrations\20211009215306_dataficationdb2.cs
+++20211009215306_DataficationDb2.Designer.cs
+i:{572e8f75-97e5-4a59-91ef-2980a488a3fb}:c:\users\danie\onedrive\documents\háskóli\vefþjónusta\small assignment iii - datafication\template (2)\template\datafication.webapi\migrations\20211009215306_dataficationdb2.designer.cs
+++IceCreamDb.db-journal
+++Microsoft.EntityFrameworkCore.Relational.Design.dll
+i:{572e8f75-97e5-4a59-91ef-2980a488a3fb}:c:\users\danie\onedrive\documents\háskóli\vefþjónusta\small assignment iii - datafication\template (2)\template\datafication.webapi\bin\debug\net5.0\microsoft.entityframeworkcore.relational.design.dll
+++Microsoft.EntityFrameworkCore.Sqlite.Design.dll
+i:{572e8f75-97e5-4a59-91ef-2980a488a3fb}:c:\users\danie\onedrive\documents\háskóli\vefþjónusta\small assignment iii - datafication\template (2)\template\datafication.webapi\bin\debug\net5.0\microsoft.entityframeworkcore.sqlite.design.dll
+++20211009215726_DataficationDb3.cs
+i:{572e8f75-97e5-4a59-91ef-2980a488a3fb}:c:\users\danie\onedrive\documents\háskóli\vefþjónusta\small assignment iii - datafication\template (2)\template\datafication.webapi\migrations\20211009215726_dataficationdb3.cs
+++20211009215726_DataficationDb3.Designer.cs
+i:{572e8f75-97e5-4a59-91ef-2980a488a3fb}:c:\users\danie\onedrive\documents\háskóli\vefþjónusta\small assignment iii - datafication\template (2)\template\datafication.webapi\migrations\20211009215726_dataficationdb3.designer.cs
+++20211009220435_DataficationDb4.cs
+i:{572e8f75-97e5-4a59-91ef-2980a488a3fb}:c:\users\danie\onedrive\documents\háskóli\vefþjónusta\small assignment iii - datafication\template (2)\template\datafication.webapi\migrations\20211009220435_dataficationdb4.cs
+++20211009220435_DataficationDb4.Designer.cs
+i:{572e8f75-97e5-4a59-91ef-2980a488a3fb}:c:\users\danie\onedrive\documents\háskóli\vefþjónusta\small assignment iii - datafication\template (2)\template\datafication.webapi\migrations\20211009220435_dataficationdb4.designer.cs
+++System.Configuration.ConfigurationManager (5.0.0)

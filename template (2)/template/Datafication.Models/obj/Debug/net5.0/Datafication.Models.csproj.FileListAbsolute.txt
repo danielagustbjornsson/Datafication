@@ -1,0 +1,12 @@
+C:\Users\danie\OneDrive\Documents\Háskóli\Vefþjónusta\Small assignment III - Datafication\template (2)\template\Datafication.Models\bin\Debug\net5.0\Datafication.Models.deps.json
+C:\Users\danie\OneDrive\Documents\Háskóli\Vefþjónusta\Small assignment III - Datafication\template (2)\template\Datafication.Models\bin\Debug\net5.0\Datafication.Models.dll
+C:\Users\danie\OneDrive\Documents\Háskóli\Vefþjónusta\Small assignment III - Datafication\template (2)\template\Datafication.Models\bin\Debug\net5.0\ref\Datafication.Models.dll
+C:\Users\danie\OneDrive\Documents\Háskóli\Vefþjónusta\Small assignment III - Datafication\template (2)\template\Datafication.Models\bin\Debug\net5.0\Datafication.Models.pdb
+C:\Users\danie\OneDrive\Documents\Háskóli\Vefþjónusta\Small assignment III - Datafication\template (2)\template\Datafication.Models\obj\Debug\net5.0\Datafication.Models.csproj.AssemblyReference.cache
+C:\Users\danie\OneDrive\Documents\Háskóli\Vefþjónusta\Small assignment III - Datafication\template (2)\template\Datafication.Models\obj\Debug\net5.0\Datafication.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\OneDrive\Documents\Háskóli\Vefþjónusta\Small assignment III - Datafication\template (2)\template\Datafication.Models\obj\Debug\net5.0\Datafication.Models.AssemblyInfoInputs.cache
+C:\Users\danie\OneDrive\Documents\Háskóli\Vefþjónusta\Small assignment III - Datafication\template (2)\template\Datafication.Models\obj\Debug\net5.0\Datafication.Models.AssemblyInfo.cs
+C:\Users\danie\OneDrive\Documents\Háskóli\Vefþjónusta\Small assignment III - Datafication\template (2)\template\Datafication.Models\obj\Debug\net5.0\Datafication.Models.csproj.CoreCompileInputs.cache
+C:\Users\danie\OneDrive\Documents\Háskóli\Vefþjónusta\Small assignment III - Datafication\template (2)\template\Datafication.Models\obj\Debug\net5.0\Datafication.Models.dll
+C:\Users\danie\OneDrive\Documents\Háskóli\Vefþjónusta\Small assignment III - Datafication\template (2)\template\Datafication.Models\obj\Debug\net5.0\ref\Datafication.Models.dll
+C:\Users\danie\OneDrive\Documents\Háskóli\Vefþjónusta\Small assignment III - Datafication\template (2)\template\Datafication.Models\obj\Debug\net5.0\Datafication.Models.pdb

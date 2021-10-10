@@ -1,0 +1,17 @@
+C:\Users\danie\OneDrive\Documents\Háskóli\Vefþjónusta\Small assignment III - Datafication\template (2)\template\Datafication.Services\bin\Debug\net5.0\Datafication.Services.deps.json
+C:\Users\danie\OneDrive\Documents\Háskóli\Vefþjónusta\Small assignment III - Datafication\template (2)\template\Datafication.Services\bin\Debug\net5.0\Datafication.Services.dll
+C:\Users\danie\OneDrive\Documents\Háskóli\Vefþjónusta\Small assignment III - Datafication\template (2)\template\Datafication.Services\bin\Debug\net5.0\ref\Datafication.Services.dll
+C:\Users\danie\OneDrive\Documents\Háskóli\Vefþjónusta\Small assignment III - Datafication\template (2)\template\Datafication.Services\bin\Debug\net5.0\Datafication.Services.pdb
+C:\Users\danie\OneDrive\Documents\Háskóli\Vefþjónusta\Small assignment III - Datafication\template (2)\template\Datafication.Services\bin\Debug\net5.0\Datafication.Models.dll
+C:\Users\danie\OneDrive\Documents\Háskóli\Vefþjónusta\Small assignment III - Datafication\template (2)\template\Datafication.Services\bin\Debug\net5.0\Datafication.Repositories.dll
+C:\Users\danie\OneDrive\Documents\Háskóli\Vefþjónusta\Small assignment III - Datafication\template (2)\template\Datafication.Services\bin\Debug\net5.0\Datafication.Models.pdb
+C:\Users\danie\OneDrive\Documents\Háskóli\Vefþjónusta\Small assignment III - Datafication\template (2)\template\Datafication.Services\bin\Debug\net5.0\Datafication.Repositories.pdb
+C:\Users\danie\OneDrive\Documents\Háskóli\Vefþjónusta\Small assignment III - Datafication\template (2)\template\Datafication.Services\obj\Debug\net5.0\Datafication.Services.csproj.AssemblyReference.cache
+C:\Users\danie\OneDrive\Documents\Háskóli\Vefþjónusta\Small assignment III - Datafication\template (2)\template\Datafication.Services\obj\Debug\net5.0\Datafication.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\OneDrive\Documents\Háskóli\Vefþjónusta\Small assignment III - Datafication\template (2)\template\Datafication.Services\obj\Debug\net5.0\Datafication.Services.AssemblyInfoInputs.cache
+C:\Users\danie\OneDrive\Documents\Háskóli\Vefþjónusta\Small assignment III - Datafication\template (2)\template\Datafication.Services\obj\Debug\net5.0\Datafication.Services.AssemblyInfo.cs
+C:\Users\danie\OneDrive\Documents\Háskóli\Vefþjónusta\Small assignment III - Datafication\template (2)\template\Datafication.Services\obj\Debug\net5.0\Datafication.Services.csproj.CoreCompileInputs.cache
+C:\Users\danie\OneDrive\Documents\Háskóli\Vefþjónusta\Small assignment III - Datafication\template (2)\template\Datafication.Services\obj\Debug\net5.0\Datafication.Services.dll
+C:\Users\danie\OneDrive\Documents\Háskóli\Vefþjónusta\Small assignment III - Datafication\template (2)\template\Datafication.Services\obj\Debug\net5.0\ref\Datafication.Services.dll
+C:\Users\danie\OneDrive\Documents\Háskóli\Vefþjónusta\Small assignment III - Datafication\template (2)\template\Datafication.Services\obj\Debug\net5.0\Datafication.Services.pdb
+C:\Users\danie\OneDrive\Documents\Háskóli\Vefþjónusta\Small assignment III - Datafication\template (2)\template\Datafication.Services\obj\Debug\net5.0\Datafication.Services.csproj.CopyComplete
