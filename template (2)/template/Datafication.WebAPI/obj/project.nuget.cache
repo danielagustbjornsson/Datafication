@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Pw991Ua/zLa2hVAQ8Udjq0LhIP4HPWbXQ/DJZpOJqyLTVI4k9H2PlcryaKTyQ9/9WJD7y/nLFLbS+6dNC1tmAA==",
+  "dgSpecHash": "JtezyUvSxpiZOUV1TLyfsNRPwhm4g5sNG79cM4PoDF52Guldhkn/UUeHEH3lclfzrM44WMAs8k4Cy89t+slvJg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\danie\\OneDrive\\Documents\\Háskóli\\Vefþjónusta\\Small assignment III - Datafication\\template (2)\\template\\Datafication.WebAPI\\Datafication.WebAPI.csproj",
+  "projectFilePath": "C:\\Users\\danie\\Documents\\GitHub\\Datafication\\template (2)\\template\\Datafication.WebAPI\\Datafication.WebAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\danie\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\danie\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",

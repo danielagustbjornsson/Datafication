@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\danie\\OneDrive\\Documents\\Háskóli\\Vefþjónusta\\Small assignment III - Datafication\\template (2)\\template\\Datafication.Services\\Datafication.Services.csproj": {}
+    "C:\\Users\\danie\\Documents\\GitHub\\Datafication\\template (2)\\template\\Datafication.Services\\Datafication.Services.csproj": {}
   },
   "projects": {
-    "C:\\Users\\danie\\OneDrive\\Documents\\Háskóli\\Vefþjónusta\\Small assignment III - Datafication\\template (2)\\template\\Datafication.Models\\Datafication.Models.csproj": {
+    "C:\\Users\\danie\\Documents\\GitHub\\Datafication\\template (2)\\template\\Datafication.Models\\Datafication.Models.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\danie\\OneDrive\\Documents\\Háskóli\\Vefþjónusta\\Small assignment III - Datafication\\template (2)\\template\\Datafication.Models\\Datafication.Models.csproj",
+        "projectUniqueName": "C:\\Users\\danie\\Documents\\GitHub\\Datafication\\template (2)\\template\\Datafication.Models\\Datafication.Models.csproj",
         "projectName": "Datafication.Models",
-        "projectPath": "C:\\Users\\danie\\OneDrive\\Documents\\Háskóli\\Vefþjónusta\\Small assignment III - Datafication\\template (2)\\template\\Datafication.Models\\Datafication.Models.csproj",
+        "projectPath": "C:\\Users\\danie\\Documents\\GitHub\\Datafication\\template (2)\\template\\Datafication.Models\\Datafication.Models.csproj",
         "packagesPath": "C:\\Users\\danie\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\danie\\OneDrive\\Documents\\Háskóli\\Vefþjónusta\\Small assignment III - Datafication\\template (2)\\template\\Datafication.Models\\obj\\",
+        "outputPath": "C:\\Users\\danie\\Documents\\GitHub\\Datafication\\template (2)\\template\\Datafication.Models\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\danie\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -60,18 +60,18 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100-rc.1.21463.6\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\danie\\OneDrive\\Documents\\Háskóli\\Vefþjónusta\\Small assignment III - Datafication\\template (2)\\template\\Datafication.Repositories\\Datafication.Repositories.csproj": {
+    "C:\\Users\\danie\\Documents\\GitHub\\Datafication\\template (2)\\template\\Datafication.Repositories\\Datafication.Repositories.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\danie\\OneDrive\\Documents\\Háskóli\\Vefþjónusta\\Small assignment III - Datafication\\template (2)\\template\\Datafication.Repositories\\Datafication.Repositories.csproj",
+        "projectUniqueName": "C:\\Users\\danie\\Documents\\GitHub\\Datafication\\template (2)\\template\\Datafication.Repositories\\Datafication.Repositories.csproj",
         "projectName": "Datafication.Repositories",
-        "projectPath": "C:\\Users\\danie\\OneDrive\\Documents\\Háskóli\\Vefþjónusta\\Small assignment III - Datafication\\template (2)\\template\\Datafication.Repositories\\Datafication.Repositories.csproj",
+        "projectPath": "C:\\Users\\danie\\Documents\\GitHub\\Datafication\\template (2)\\template\\Datafication.Repositories\\Datafication.Repositories.csproj",
         "packagesPath": "C:\\Users\\danie\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\danie\\OneDrive\\Documents\\Háskóli\\Vefþjónusta\\Small assignment III - Datafication\\template (2)\\template\\Datafication.Repositories\\obj\\",
+        "outputPath": "C:\\Users\\danie\\Documents\\GitHub\\Datafication\\template (2)\\template\\Datafication.Repositories\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\danie\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -88,8 +88,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\danie\\OneDrive\\Documents\\Háskóli\\Vefþjónusta\\Small assignment III - Datafication\\template (2)\\template\\Datafication.Models\\Datafication.Models.csproj": {
-                "projectPath": "C:\\Users\\danie\\OneDrive\\Documents\\Háskóli\\Vefþjónusta\\Small assignment III - Datafication\\template (2)\\template\\Datafication.Models\\Datafication.Models.csproj"
+              "C:\\Users\\danie\\Documents\\GitHub\\Datafication\\template (2)\\template\\Datafication.Models\\Datafication.Models.csproj": {
+                "projectPath": "C:\\Users\\danie\\Documents\\GitHub\\Datafication\\template (2)\\template\\Datafication.Models\\Datafication.Models.csproj"
               }
             }
           }
@@ -128,18 +128,18 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100-rc.1.21463.6\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\danie\\OneDrive\\Documents\\Háskóli\\Vefþjónusta\\Small assignment III - Datafication\\template (2)\\template\\Datafication.Services\\Datafication.Services.csproj": {
+    "C:\\Users\\danie\\Documents\\GitHub\\Datafication\\template (2)\\template\\Datafication.Services\\Datafication.Services.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\danie\\OneDrive\\Documents\\Háskóli\\Vefþjónusta\\Small assignment III - Datafication\\template (2)\\template\\Datafication.Services\\Datafication.Services.csproj",
+        "projectUniqueName": "C:\\Users\\danie\\Documents\\GitHub\\Datafication\\template (2)\\template\\Datafication.Services\\Datafication.Services.csproj",
         "projectName": "Datafication.Services",
-        "projectPath": "C:\\Users\\danie\\OneDrive\\Documents\\Háskóli\\Vefþjónusta\\Small assignment III - Datafication\\template (2)\\template\\Datafication.Services\\Datafication.Services.csproj",
+        "projectPath": "C:\\Users\\danie\\Documents\\GitHub\\Datafication\\template (2)\\template\\Datafication.Services\\Datafication.Services.csproj",
         "packagesPath": "C:\\Users\\danie\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\danie\\OneDrive\\Documents\\Háskóli\\Vefþjónusta\\Small assignment III - Datafication\\template (2)\\template\\Datafication.Services\\obj\\",
+        "outputPath": "C:\\Users\\danie\\Documents\\GitHub\\Datafication\\template (2)\\template\\Datafication.Services\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\danie\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -156,11 +156,11 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\danie\\OneDrive\\Documents\\Háskóli\\Vefþjónusta\\Small assignment III - Datafication\\template (2)\\template\\Datafication.Models\\Datafication.Models.csproj": {
-                "projectPath": "C:\\Users\\danie\\OneDrive\\Documents\\Háskóli\\Vefþjónusta\\Small assignment III - Datafication\\template (2)\\template\\Datafication.Models\\Datafication.Models.csproj"
+              "C:\\Users\\danie\\Documents\\GitHub\\Datafication\\template (2)\\template\\Datafication.Models\\Datafication.Models.csproj": {
+                "projectPath": "C:\\Users\\danie\\Documents\\GitHub\\Datafication\\template (2)\\template\\Datafication.Models\\Datafication.Models.csproj"
               },
-              "C:\\Users\\danie\\OneDrive\\Documents\\Háskóli\\Vefþjónusta\\Small assignment III - Datafication\\template (2)\\template\\Datafication.Repositories\\Datafication.Repositories.csproj": {
-                "projectPath": "C:\\Users\\danie\\OneDrive\\Documents\\Háskóli\\Vefþjónusta\\Small assignment III - Datafication\\template (2)\\template\\Datafication.Repositories\\Datafication.Repositories.csproj"
+              "C:\\Users\\danie\\Documents\\GitHub\\Datafication\\template (2)\\template\\Datafication.Repositories\\Datafication.Repositories.csproj": {
+                "projectPath": "C:\\Users\\danie\\Documents\\GitHub\\Datafication\\template (2)\\template\\Datafication.Repositories\\Datafication.Repositories.csproj"
               }
             }
           }
@@ -195,7 +195,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100-rc.1.21463.6\\RuntimeIdentifierGraph.json"
         }
       }
     }

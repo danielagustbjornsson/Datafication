@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "7XZZQOfZxQylcKpsl/sP59NtGRFIZen61BNNUB/TOxLHDiqp0x8SKYlU5nJwaEvptXE8q7KcuDPTPHW6yruAuA==",
+  "dgSpecHash": "+xJ7kYL/a9G+lKme997xQopEurWjKauRXFTgyTcl9umWQQYsZfq+0qeczOvk2VTn5Wl5h58aN44IBVot14WgYg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\danie\\OneDrive\\Documents\\Háskóli\\Vefþjónusta\\Small assignment III - Datafication\\template (2)\\template\\Datafication.Services\\Datafication.Services.csproj",
+  "projectFilePath": "C:\\Users\\danie\\Documents\\GitHub\\Datafication\\template (2)\\template\\Datafication.Services\\Datafication.Services.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\danie\\.nuget\\packages\\microsoft.data.sqlite.core\\5.0.10\\microsoft.data.sqlite.core.5.0.10.nupkg.sha512",
     "C:\\Users\\danie\\.nuget\\packages\\microsoft.dotnet.platformabstractions\\3.1.6\\microsoft.dotnet.platformabstractions.3.1.6.nupkg.sha512",
